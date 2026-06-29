@@ -2,8 +2,12 @@
 # 都市文娱小说生成系统 - .gitignore
 # ============================================================
 
-# 原始数据（版权保护）
+# 数据文件（版权保护，仅保留目录结构）
 data/raw/
+data/clean/
+data/sft/
+data/knowledge/
+!data/*/.gitkeep
 
 # 模型权重
 models/base/
