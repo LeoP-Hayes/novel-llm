@@ -15,12 +15,29 @@ LLM 标注模块
 
 import json
 import os
+import re
 import time
 from dataclasses import dataclass, field, asdict
 from pathlib import Path
 from typing import Optional
 
 import httpx
+
+
+# ============================================================
+# .env 加载（避免额外依赖 python-dotenv）
+# ============================================================
+
+def _load_env():
+    """从项目根目录加载 .env 文件"""
+    env_file = Path(__file__).resolve().parent.parent.parent / ".env"
+    if env_file.exists():
+        for line in env_file.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith('#') and '=' in line:
+                key, _, value = line.partition('=')
+                os.environ.setdefault(key.strip(), value.strip())
+_load_env()
 
 
 # ============================================================
