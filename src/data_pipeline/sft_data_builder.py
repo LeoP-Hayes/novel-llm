@@ -109,13 +109,15 @@ def load_all_books(clean_dir: Path, config: BuildConfig) -> list[dict]:
     for book_dir in sorted(clean_dir.iterdir()):
         if book_dir.is_dir():
             data = load_book_data(book_dir)
-            # 过滤低质量章节
-            valid = {
-                k: v for k, v in data["chapters"].items()
-                if v.get("annotation") and
-                   v["annotation"].get("quality_score", 0) >= config.min_quality and
-                   config.chapter_min_words <= v["word_count"] <= config.chapter_max_words
-            }
+            # 过滤低质量章节（字数过滤对所有任务生效，质量过滤仅对有标注的章节生效）
+            valid = {}
+            for k, v in data["chapters"].items():
+                if not (config.chapter_min_words <= v["word_count"] <= config.chapter_max_words):
+                    continue
+                ann = v.get("annotation")
+                if ann and ann.get("quality_score", 0) < config.min_quality:
+                    continue  # 有标注但质量低 → 剔除
+                valid[k] = v  # 无标注或标注质量达标 → 保留
             if len(valid) >= 10:  # 至少 10 章有效
                 data["chapters"] = valid
                 books.append(data)
@@ -134,18 +136,22 @@ def build_continuation_sample(
     Input: 前 N-1 章 → Output: 第 N 章
     """
     chapters = book["chapters"]
-    if ch_num - config.continuation_n < min(chapters.keys()):
+
+    # 找到实际的之前章节（处理稀疏编号）
+    sorted_keys = sorted(chapters.keys())
+    try:
+        target_idx = sorted_keys.index(ch_num)
+    except ValueError:
+        return None
+
+    start_idx = max(0, target_idx - config.continuation_n + 1)
+    prev_ch_nums = sorted_keys[start_idx:target_idx]
+
+    if len(prev_ch_nums) < config.continuation_n - 1:
         return None
 
     # 收集前 N-1 章
-    prev_chs = []
-    total_len = 0
-    for i in range(ch_num - config.continuation_n, ch_num):
-        if i in chapters:
-            prev_chs.append(chapters[i])
-
-    if len(prev_chs) < config.continuation_n - 1:
-        return None
+    prev_chs = [chapters[i] for i in prev_ch_nums]
 
     # 构造 prompt：取前情的关键部分
     context_parts = []
@@ -339,7 +345,7 @@ def build_unit_creation_sample(
 
     for num, ch in sorted(unit_chapters.items()):
         text = ch["text"]
-        ann = ch.get("annotation", {})
+        ann = ch.get("annotation") or {}
         rhythm = ann.get("rhythm_label", "buildup")
         scene = ann.get("primary_scene", "daily")
 
@@ -406,10 +412,10 @@ def build_all_samples(
             if sample:
                 samples.append(sample)
 
-        # 4. 单元创作: 按每 5 章构造一个单元
-        for i in range(0, len(ch_nums) - 2, 5):
+        # 4. 单元创作: 用索引滑动窗口取连续 5 个有效章节
+        for i in range(0, len(ch_nums) - 4, 2):  # stride=2，单元间有重叠
             start = ch_nums[i]
-            end = ch_nums[min(i + 4, len(ch_nums) - 1)]
+            end = ch_nums[i + 4]
             sample = build_unit_creation_sample(book, start, end, config)
             if sample:
                 samples.append(sample)
@@ -421,11 +427,11 @@ def build_all_samples(
         if sample:
             samples.append(sample)
 
-    # 去重
+    # 去重（按 task_type + assistant 前 200 字，避免不同类型任务共用同一章节时误删）
     seen = set()
     unique = []
     for s in samples:
-        key = s["assistant"][:100]
+        key = (s["task_type"], s["assistant"][:200])
         if key not in seen:
             seen.add(key)
             unique.append(s)
