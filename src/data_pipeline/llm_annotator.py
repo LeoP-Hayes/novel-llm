@@ -172,7 +172,7 @@ class LLMAnnotator:
         self,
         api_key: Optional[str] = None,
         base_url: str = "https://api.deepseek.com",
-        model: str = "deepseek-v4-pro",  # DeepSeek V4 Pro
+        model: str = "deepseek-v4-flash",  # DeepSeek V4 Flash（快）
         max_retries: int = 3,
         retry_delay: float = 2.0,
     ):
@@ -350,7 +350,7 @@ class LLMAnnotator:
 def annotate_all_books(
     clean_dir: Path,
     api_key: Optional[str] = None,
-    model: str = "deepseek-v4-pro",
+    model: str = "deepseek-v4-flash",
     limit_chapters_per_book: Optional[int] = None,
 ) -> None:
     """
