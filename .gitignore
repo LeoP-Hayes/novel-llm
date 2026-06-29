@@ -1,0 +1,48 @@
+# ============================================================
+# 都市文娱小说生成系统 - .gitignore
+# ============================================================
+
+# 原始数据（版权保护）
+data/raw/
+
+# 模型权重
+models/base/
+models/lora_adapters/
+models/merged/
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+
+# 环境变量
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 训练日志
+wandb/
+logs/
+lightning_logs/
+
+# 生成输出
+output/
+*.txt.generated
+
+# OS
+.DS_Store
+Thumbs.db
