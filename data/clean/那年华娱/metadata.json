@@ -1,0 +1,8089 @@
+{
+  "book_name": "那年华娱",
+  "author": "做梦的木头",
+  "total_chapters": 1010,
+  "total_words": 5180537,
+  "encoding": "utf-8",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "第1章 新生",
+      "word_count": 3127,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "第2章 进剧组",
+      "word_count": 3152,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "第3章 返校",
+      "word_count": 3317,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "第4章 探班",
+      "word_count": 3217,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "第6章 经纪公司",
+      "word_count": 3257,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "第7章 在柏林",
+      "word_count": 3224,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "第8章 自己做剧本",
+      "word_count": 3205,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "第9章 剧组",
+      "word_count": 3277,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "第10章 上映",
+      "word_count": 3316,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "第11章 下映，开会",
+      "word_count": 3310,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "第12章 联谊，邀请",
+      "word_count": 3324,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "第13章 宝莲灯",
+      "word_count": 3248,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "第14章 囤剧本",
+      "word_count": 3309,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "第15章 金马",
+      "word_count": 3419,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "第16章 赴横店",
+      "word_count": 3424,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "第17章 筹备",
+      "word_count": 3440,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "第18章 快枪手",
+      "word_count": 3380,
+      "paragraph_count": 86,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "第19章 投资",
+      "word_count": 3381,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "第20章 日常",
+      "word_count": 3391,
+      "paragraph_count": 90,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "第21章 新剧本",
+      "word_count": 3327,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "第22章 演员敲定",
+      "word_count": 3351,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "第23章 顺便回趟家",
+      "word_count": 3426,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "第24章 颁奖晚会",
+      "word_count": 3351,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "第25章 十月",
+      "word_count": 3365,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "第26章 断肠崖",
+      "word_count": 3326,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "第27章 讨厌黄蓉",
+      "word_count": 3378,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "第28章 西影",
+      "word_count": 3306,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "第29章 参加首映礼",
+      "word_count": 3410,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "第30章 一年将尽",
+      "word_count": 3443,
+      "paragraph_count": 86,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "第31章 忙碌",
+      "word_count": 3330,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "第32章 剧组，即将艺考",
+      "word_count": 3435,
+      "paragraph_count": 85,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "第33章 万达院线",
+      "word_count": 3361,
+      "paragraph_count": 83,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "第34章 入围",
+      "word_count": 3431,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "第35章 闭幕式",
+      "word_count": 3462,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "第36章 颁奖礼及版权",
+      "word_count": 3531,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "第37章 回国，复试",
+      "word_count": 3415,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "第38章 终试",
+      "word_count": 3447,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "第39章 竞聘",
+      "word_count": 3448,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "第40章 行程计划",
+      "word_count": 3407,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "第41章 魔都行",
+      "word_count": 3549,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "第42章 商谈",
+      "word_count": 3497,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "第43章 签约",
+      "word_count": 3396,
+      "paragraph_count": 85,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "第44章 跑宣传",
+      "word_count": 3487,
+      "paragraph_count": 88,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "第45章 接机",
+      "word_count": 3541,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 46,
+      "chapter_title": "第46章 校园日常",
+      "word_count": 3523,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 47,
+      "chapter_title": "第47章 首映和上映",
+      "word_count": 3455,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 48,
+      "chapter_title": "第48章 成绩",
+      "word_count": 3493,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 49,
+      "chapter_title": "第49章 发言",
+      "word_count": 3603,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 50,
+      "chapter_title": "第50章 年轻有优势",
+      "word_count": 3425,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 51,
+      "chapter_title": "第51章 六月",
+      "word_count": 3431,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 52,
+      "chapter_title": "第52章 《死寂》成片",
+      "word_count": 3375,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 53,
+      "chapter_title": "第53章 两部片子一起上",
+      "word_count": 3533,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 54,
+      "chapter_title": "第54章 新线，回国",
+      "word_count": 3401,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 55,
+      "chapter_title": "第55章 透露项目",
+      "word_count": 3416,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 56,
+      "chapter_title": "第56章 宁皓执导MV",
+      "word_count": 3430,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 57,
+      "chapter_title": "第57章 做客",
+      "word_count": 3335,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 58,
+      "chapter_title": "第58章 金鸡邀请",
+      "word_count": 3361,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 59,
+      "chapter_title": "第59章 份额分配",
+      "word_count": 3356,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 60,
+      "chapter_title": "第60章 消息乱飞",
+      "word_count": 3482,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 62,
+      "chapter_title": "第62章 八月的八卦",
+      "word_count": 3387,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 63,
+      "chapter_title": "第63章 小聚，闲聊",
+      "word_count": 3314,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 65,
+      "chapter_title": "第65章 景恬",
+      "word_count": 3291,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 66,
+      "chapter_title": "第66章 礼物",
+      "word_count": 3321,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 67,
+      "chapter_title": "第67章 生日",
+      "word_count": 3406,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 68,
+      "chapter_title": "第68章 老师，学生",
+      "word_count": 3287,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 69,
+      "chapter_title": "第69章 请老师指正",
+      "word_count": 3483,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 70,
+      "chapter_title": "第70章 送审",
+      "word_count": 3402,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 71,
+      "chapter_title": "第71章 机器，不白拿",
+      "word_count": 3307,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 72,
+      "chapter_title": "第72章 预算，选角",
+      "word_count": 3261,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 73,
+      "chapter_title": "第73章 试镜定角",
+      "word_count": 3299,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 74,
+      "chapter_title": "第74章 陈导，名场面",
+      "word_count": 3415,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 75,
+      "chapter_title": "第75章 神话，成龍的女人缘",
+      "word_count": 3319,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 76,
+      "chapter_title": "第76章 观影，明星班",
+      "word_count": 3297,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 77,
+      "chapter_title": "第77章 宁皓，客串",
+      "word_count": 3301,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 78,
+      "chapter_title": "第78章 论文，人情冷暖",
+      "word_count": 3313,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 79,
+      "chapter_title": "第79章 金鸡，冲奥",
+      "word_count": 3211,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 80,
+      "chapter_title": "第80章 极端，电影节的对比",
+      "word_count": 3426,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 81,
+      "chapter_title": "第81章 光线，赛事",
+      "word_count": 3344,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 82,
+      "chapter_title": "第82章 互证清白",
+      "word_count": 3280,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 83,
+      "chapter_title": "第83章 都是为了红毯",
+      "word_count": 3303,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 84,
+      "chapter_title": "第84章 闹幺蛾子的颁奖礼",
+      "word_count": 3413,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 85,
+      "chapter_title": "第85章 时空游轮",
+      "word_count": 3338,
+      "paragraph_count": 79,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 86,
+      "chapter_title": "第86章 循环 循环",
+      "word_count": 3362,
+      "paragraph_count": 82,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 87,
+      "chapter_title": "第87章 开放探班，十二月的战争",
+      "word_count": 3326,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 88,
+      "chapter_title": "第88章 如此风骚，无极首映礼",
+      "word_count": 3389,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 89,
+      "chapter_title": "第89章 这件衣服下穿的是什么",
+      "word_count": 3414,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 90,
+      "chapter_title": "第90章 崩塌的口碑",
+      "word_count": 3415,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 91,
+      "chapter_title": "第91章 来探班的刘艺菲",
+      "word_count": 3346,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 92,
+      "chapter_title": "第92章 杀青照上多了个刘艺菲",
+      "word_count": 3380,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 93,
+      "chapter_title": "第93章 馒头的故事",
+      "word_count": 3305,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 94,
+      "chapter_title": "第94章 协会，蛊惑技能点满的马总",
+      "word_count": 3290,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 95,
+      "chapter_title": "第95章 元旦晚会",
+      "word_count": 3326,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 96,
+      "chapter_title": "第96章 刘艺菲的车技",
+      "word_count": 3331,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 97,
+      "chapter_title": "第97章 田状状的教诲，人性",
+      "word_count": 3235,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 98,
+      "chapter_title": "第98章 喜欢",
+      "word_count": 3510,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 99,
+      "chapter_title": "第99章 违什么规",
+      "word_count": 6589,
+      "paragraph_count": 210,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 101,
+      "chapter_title": "第101章 不会伤害她",
+      "word_count": 3274,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 102,
+      "chapter_title": "第102章 ShowBox",
+      "word_count": 9939,
+      "paragraph_count": 318,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 105,
+      "chapter_title": "第105章 换个导师，买公司",
+      "word_count": 3302,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 106,
+      "chapter_title": "第106章 《潜伏》，舒倡的官司",
+      "word_count": 3263,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 107,
+      "chapter_title": "第107章 小富婆刘艺菲，老林头来京",
+      "word_count": 3352,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 108,
+      "chapter_title": "第108章 定档，排片",
+      "word_count": 3316,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 109,
+      "chapter_title": "第109章 扩宽业务，准备班底",
+      "word_count": 3303,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 110,
+      "chapter_title": "第110章 新员工，电视剧意向",
+      "word_count": 3219,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 111,
+      "chapter_title": "第111章 投拍，刘艺菲回怼",
+      "word_count": 3227,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 112,
+      "chapter_title": "第112章 《潜伏》，探班",
+      "word_count": 3307,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 113,
+      "chapter_title": "第113章 《潜伏1》的票房，邀请温仔仁",
+      "word_count": 3259,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 114,
+      "chapter_title": "第114章 没事找怼的陆钏",
+      "word_count": 3284,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 115,
+      "chapter_title": "第115章 请家长，即将上映",
+      "word_count": 3152,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 116,
+      "chapter_title": "第116章 票房，庆功宴",
+      "word_count": 3368,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 117,
+      "chapter_title": "第117章 买房，答辩",
+      "word_count": 3233,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 118,
+      "chapter_title": "第118章 毕业，红毯发言",
+      "word_count": 3402,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 119,
+      "chapter_title": "第119章 《忌日快乐》，新的办公楼",
+      "word_count": 3361,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 120,
+      "chapter_title": "第120章月，色戒",
+      "word_count": 3290,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 121,
+      "chapter_title": "第121章 福克斯的嘲讽，拒绝合作",
+      "word_count": 3323,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 122,
+      "chapter_title": "第122章 大片，自己搞",
+      "word_count": 3287,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 123,
+      "chapter_title": "第123章万美金的大制作",
+      "word_count": 3382,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 124,
+      "chapter_title": "第124章 划分投资，不签华亿",
+      "word_count": 3388,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 125,
+      "chapter_title": "第125章 选角，景恬",
+      "word_count": 6528,
+      "paragraph_count": 212,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 127,
+      "chapter_title": "第127章 双J计划，火星开机前的准备",
+      "word_count": 3336,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 128,
+      "chapter_title": "第128章 签下张绎，男主的戏份开拍",
+      "word_count": 3368,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 129,
+      "chapter_title": "第129章 拍摄，刘晓丽与华亿",
+      "word_count": 3383,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 130,
+      "chapter_title": "第130章 教景恬，金鹰",
+      "word_count": 3344,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 131,
+      "chapter_title": "第131章 金鹰女神，心悸",
+      "word_count": 3322,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 132,
+      "chapter_title": "第132章 景恬的请求，签约",
+      "word_count": 3368,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 133,
+      "chapter_title": "第133章 杀青，漫长的后期",
+      "word_count": 3424,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 134,
+      "chapter_title": "第134章 盖章，出发",
+      "word_count": 3291,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 135,
+      "chapter_title": "第135章 暮光，维密",
+      "word_count": 3202,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 136,
+      "chapter_title": "第136章 投资，《忌日快乐》上映",
+      "word_count": 3348,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 137,
+      "chapter_title": "第137章 暮光女，黄金甲",
+      "word_count": 3160,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 138,
+      "chapter_title": "第138章 发布会，前传",
+      "word_count": 9911,
+      "paragraph_count": 323,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 141,
+      "chapter_title": "第141章 杀青，刘晓丽的烂摊子",
+      "word_count": 3317,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 142,
+      "chapter_title": "第142章 寄送电影，李杨到来",
+      "word_count": 3287,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 143,
+      "chapter_title": "第143章 再次入围，不拍吻戏",
+      "word_count": 3253,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 144,
+      "chapter_title": "第144章 第二次入围的影响，小李子",
+      "word_count": 3291,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 145,
+      "chapter_title": "第145章 柏林，《活埋》宣传",
+      "word_count": 3240,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 146,
+      "chapter_title": "第146章 韩三坪的报价",
+      "word_count": 3277,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 147,
+      "chapter_title": "第147章 颁奖",
+      "word_count": 3462,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 148,
+      "chapter_title": "第148章 港岛，英黄",
+      "word_count": 3401,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 149,
+      "chapter_title": "第149章 星引力计划，酒会",
+      "word_count": 3678,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 150,
+      "chapter_title": "第150章 和唐人的交易",
+      "word_count": 3194,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 151,
+      "chapter_title": "第151章 艺考，邀请周讯",
+      "word_count": 3354,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 152,
+      "chapter_title": "第152章 只帮一次",
+      "word_count": 3302,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 153,
+      "chapter_title": "第153章 《画皮》，终试，投资方",
+      "word_count": 3136,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 154,
+      "chapter_title": "第154章 被迫提前选角",
+      "word_count": 3250,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 155,
+      "chapter_title": "第155章 选角完毕",
+      "word_count": 3379,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 156,
+      "chapter_title": "第156章 大导演们的新戏，乌而善",
+      "word_count": 3270,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 157,
+      "chapter_title": "第157章 开机在即，有备无患",
+      "word_count": 3374,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 158,
+      "chapter_title": "第158章 《疯狂的赛车》选角，进组西部影城",
+      "word_count": 3380,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 159,
+      "chapter_title": "第159章 开拍，极端粉丝",
+      "word_count": 3436,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 160,
+      "chapter_title": "第160章 拍摄，电影节",
+      "word_count": 3241,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 161,
+      "chapter_title": "第161章月，通杀的进口片",
+      "word_count": 3212,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 162,
+      "chapter_title": "第162章 探班",
+      "word_count": 3254,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 163,
+      "chapter_title": "第163章 第六代",
+      "word_count": 3412,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 164,
+      "chapter_title": "第164章 杀青",
+      "word_count": 3196,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 165,
+      "chapter_title": "第165章 买断",
+      "word_count": 3270,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 166,
+      "chapter_title": "第166章 电影节，擅长陪酒",
+      "word_count": 3230,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 167,
+      "chapter_title": "第167章 红毯上的女星，重振大导演威信",
+      "word_count": 3325,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 168,
+      "chapter_title": "第168章 封杀？蒋文丽找帮忙",
+      "word_count": 3436,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 169,
+      "chapter_title": "第169章 捧人，建议",
+      "word_count": 3330,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 170,
+      "chapter_title": "第170章 七月，假戏真做",
+      "word_count": 3270,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 171,
+      "chapter_title": "第171章 签人，红楼笑话",
+      "word_count": 3271,
+      "paragraph_count": 137,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 172,
+      "chapter_title": "第172章 画心，告诫舒倡",
+      "word_count": 3634,
+      "paragraph_count": 146,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 173,
+      "chapter_title": "第173章 定档，二十岁",
+      "word_count": 3257,
+      "paragraph_count": 137,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 174,
+      "chapter_title": "第174章 金狮，我的团长我的团",
+      "word_count": 3260,
+      "paragraph_count": 131,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 175,
+      "chapter_title": "第175章 英黄千金买马骨，金鸡的傲慢",
+      "word_count": 3283,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 176,
+      "chapter_title": "第176章 《盲山》，红毯发言",
+      "word_count": 3600,
+      "paragraph_count": 143,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 177,
+      "chapter_title": "第177章 上映，放弃版权",
+      "word_count": 3248,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 178,
+      "chapter_title": "第178章 我有一部剧本",
+      "word_count": 6736,
+      "paragraph_count": 262,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 180,
+      "chapter_title": "第180章 出演，外加投资",
+      "word_count": 9875,
+      "paragraph_count": 393,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 183,
+      "chapter_title": "第183章 《火星》定档",
+      "word_count": 3210,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 184,
+      "chapter_title": "第184章 入股，版权",
+      "word_count": 6441,
+      "paragraph_count": 241,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 186,
+      "chapter_title": "第186章 华亿的股票认购",
+      "word_count": 3444,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 187,
+      "chapter_title": "第187章 确定中影，剧本判断能力",
+      "word_count": 3177,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 188,
+      "chapter_title": "第188章 《画皮》首映",
+      "word_count": 3265,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 189,
+      "chapter_title": "第189章 《画皮》的票房",
+      "word_count": 3140,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 190,
+      "chapter_title": "第190章 《功夫之王》的矛盾，划分投资",
+      "word_count": 3368,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 191,
+      "chapter_title": "第191章 林楠参演",
+      "word_count": 6680,
+      "paragraph_count": 236,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 193,
+      "chapter_title": "第193章 《盗梦空间》试镜",
+      "word_count": 3210,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 194,
+      "chapter_title": "第194章 灾难",
+      "word_count": 3222,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 195,
+      "chapter_title": "第195章 我的女朋友",
+      "word_count": 3274,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 196,
+      "chapter_title": "第196章 戏份提前，父女",
+      "word_count": 6535,
+      "paragraph_count": 225,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 198,
+      "chapter_title": "第198章 风声，宁皓的新剧本",
+      "word_count": 3264,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 199,
+      "chapter_title": "第199章 无人区，芭莎邀请",
+      "word_count": 3285,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 200,
+      "chapter_title": "第200章 张一谋封神，毕业大戏",
+      "word_count": 3290,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 201,
+      "chapter_title": "第201章 芭莎，礼物",
+      "word_count": 3183,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 202,
+      "chapter_title": "第202章 威尼斯卖片，《李米》上映",
+      "word_count": 3200,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 203,
+      "chapter_title": "第203章 首映礼安排",
+      "word_count": 3307,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 204,
+      "chapter_title": "第204章 特效公司",
+      "word_count": 3203,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 205,
+      "chapter_title": "第205章 上映",
+      "word_count": 3288,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 206,
+      "chapter_title": "第206章 一顿饭",
+      "word_count": 3220,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 207,
+      "chapter_title": "第207章 新纪录，毕业作品",
+      "word_count": 3252,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 208,
+      "chapter_title": "第208章 定角，马特",
+      "word_count": 3250,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 209,
+      "chapter_title": "第209章 舌上有龙泉",
+      "word_count": 3230,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 210,
+      "chapter_title": "第210章 杀人不见血",
+      "word_count": 3314,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 211,
+      "chapter_title": "第211章 回国，十二月",
+      "word_count": 3251,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 212,
+      "chapter_title": "第212章 两个发布会",
+      "word_count": 3244,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 213,
+      "chapter_title": "第213章 投资路洋，小马",
+      "word_count": 3220,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 214,
+      "chapter_title": "第214章 子弹，资格",
+      "word_count": 3269,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 215,
+      "chapter_title": "第215章 《赛车》上映",
+      "word_count": 3258,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 216,
+      "chapter_title": "第216章 去威尼斯",
+      "word_count": 3050,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 217,
+      "chapter_title": "第217章 邀请，承诺",
+      "word_count": 3482,
+      "paragraph_count": 138,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 218,
+      "chapter_title": "第218章 天工色彩，签约",
+      "word_count": 3041,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 219,
+      "chapter_title": "第219章 艺考风波，阴影",
+      "word_count": 6557,
+      "paragraph_count": 256,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 221,
+      "chapter_title": "第221章 艺人经纪",
+      "word_count": 3227,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 222,
+      "chapter_title": "第222章 动作片",
+      "word_count": 3176,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 223,
+      "chapter_title": "第223章 答辩，电影工业化",
+      "word_count": 3259,
+      "paragraph_count": 138,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 224,
+      "chapter_title": "第224章 小花旦，表态",
+      "word_count": 3279,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 225,
+      "chapter_title": "第225章 练手的电影",
+      "word_count": 3301,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 226,
+      "chapter_title": "第226章 软科幻，林楠的剧本",
+      "word_count": 3170,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 227,
+      "chapter_title": "第227章 女主电影",
+      "word_count": 3159,
+      "paragraph_count": 136,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 228,
+      "chapter_title": "第228章 从人进化成神",
+      "word_count": 3159,
+      "paragraph_count": 131,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 229,
+      "chapter_title": "第229章 审核打回，《仙三》爆火",
+      "word_count": 3300,
+      "paragraph_count": 131,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 230,
+      "chapter_title": "第230章 水晶影业，crystal",
+      "word_count": 3209,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 231,
+      "chapter_title": "第231章 《超体》，刘艺菲",
+      "word_count": 3177,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 232,
+      "chapter_title": "第232章 入围，进组",
+      "word_count": 3191,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 233,
+      "chapter_title": "第233章的股权",
+      "word_count": 3204,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 234,
+      "chapter_title": "第234章 老朱，你要角色不",
+      "word_count": 3263,
+      "paragraph_count": 138,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 235,
+      "chapter_title": "第235章 又一部小成本",
+      "word_count": 3201,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 236,
+      "chapter_title": "第236章 八月",
+      "word_count": 3157,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 237,
+      "chapter_title": "第237章 出发",
+      "word_count": 3444,
+      "paragraph_count": 136,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 238,
+      "chapter_title": "第238章 旅游",
+      "word_count": 3246,
+      "paragraph_count": 134,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 239,
+      "chapter_title": "第239章 威尼斯",
+      "word_count": 3389,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 240,
+      "chapter_title": "第240章 公开",
+      "word_count": 3314,
+      "paragraph_count": 141,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 241,
+      "chapter_title": "第241章 金狮，我喜欢一个女孩儿",
+      "word_count": 3120,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 242,
+      "chapter_title": "第242章 刘艺菲的第一条微博，退会",
+      "word_count": 3120,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 243,
+      "chapter_title": "第243章 万达影业，第二个4亿俱乐部导演",
+      "word_count": 3233,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 244,
+      "chapter_title": "第244章 芭莎，晚装",
+      "word_count": 3102,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 245,
+      "chapter_title": "第245章 刘制片",
+      "word_count": 3202,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 246,
+      "chapter_title": "第246章 绣春刀",
+      "word_count": 3100,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 247,
+      "chapter_title": "第247章 选角由剧组定",
+      "word_count": 3145,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 248,
+      "chapter_title": "第248章 吞并周易，华亿上市",
+      "word_count": 6486,
+      "paragraph_count": 264,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 250,
+      "chapter_title": "第250章 邀请刘德哗，《源代码》上映",
+      "word_count": 3238,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 251,
+      "chapter_title": "第251章 试镜",
+      "word_count": 3212,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 252,
+      "chapter_title": "第252章 开机",
+      "word_count": 3032,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 253,
+      "chapter_title": "第253章 拍摄",
+      "word_count": 6407,
+      "paragraph_count": 245,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 255,
+      "chapter_title": "第255章 《阿凡达》的降维打击",
+      "word_count": 3263,
+      "paragraph_count": 135,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 256,
+      "chapter_title": "第256章 上眼药",
+      "word_count": 3220,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 257,
+      "chapter_title": "第257章 《山楂树》，第二批设备",
+      "word_count": 3244,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 258,
+      "chapter_title": "第258章 《绣春刀》杀青，《孙子大传》下架",
+      "word_count": 6599,
+      "paragraph_count": 252,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 260,
+      "chapter_title": "第260章 选档期",
+      "word_count": 3213,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 261,
+      "chapter_title": "第261章年约",
+      "word_count": 9814,
+      "paragraph_count": 383,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 264,
+      "chapter_title": "第264章 全部完工，第二个艺人",
+      "word_count": 5557,
+      "paragraph_count": 208,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 265,
+      "chapter_title": "第265章 定档，八卦",
+      "word_count": 3223,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 266,
+      "chapter_title": "第266章 试镜，8年新人约",
+      "word_count": 3174,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 267,
+      "chapter_title": "第267章月，《画皮2》，清宫戏",
+      "word_count": 5364,
+      "paragraph_count": 202,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 268,
+      "chapter_title": "第268章 首映礼",
+      "word_count": 3178,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 269,
+      "chapter_title": "第269章 换导演，定投资方",
+      "word_count": 3148,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 270,
+      "chapter_title": "第270章 划分投资，上映",
+      "word_count": 3198,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 271,
+      "chapter_title": "第271章 停掉项目",
+      "word_count": 3114,
+      "paragraph_count": 131,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 272,
+      "chapter_title": "第272章 票房，下映，探班",
+      "word_count": 5231,
+      "paragraph_count": 200,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 273,
+      "chapter_title": "第273章 电影节宣传",
+      "word_count": 3430,
+      "paragraph_count": 133,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 274,
+      "chapter_title": "第274章 接下特效的活儿",
+      "word_count": 3133,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 275,
+      "chapter_title": "第275章 上映，黑马",
+      "word_count": 3237,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 276,
+      "chapter_title": "第276章 为《超体》做准备，续集",
+      "word_count": 3202,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 277,
+      "chapter_title": "第277章 中性美",
+      "word_count": 3250,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 278,
+      "chapter_title": "第278章 有点股份而已",
+      "word_count": 3166,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 279,
+      "chapter_title": "第279章 《超体》上映，两开花",
+      "word_count": 3430,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 280,
+      "chapter_title": "第280章 奔向3亿",
+      "word_count": 3253,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 281,
+      "chapter_title": "第281章 票房，还可以更高",
+      "word_count": 3228,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 282,
+      "chapter_title": "第282章 《大地震》的吃相",
+      "word_count": 2970,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 283,
+      "chapter_title": "第283章 下映，薅羊毛",
+      "word_count": 3420,
+      "paragraph_count": 140,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 284,
+      "chapter_title": "第284章 计划IPO",
+      "word_count": 3191,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 285,
+      "chapter_title": "第285章 合拍片",
+      "word_count": 4358,
+      "paragraph_count": 167,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 286,
+      "chapter_title": "第286章 份额分配",
+      "word_count": 3374,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 287,
+      "chapter_title": "第287章 都盯着角色",
+      "word_count": 3219,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 288,
+      "chapter_title": "第288章 演技要求不高",
+      "word_count": 3175,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 289,
+      "chapter_title": "第289章 努力做到最好",
+      "word_count": 3130,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 290,
+      "chapter_title": "第290章 拍一部爱情片吧",
+      "word_count": 3150,
+      "paragraph_count": 133,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 291,
+      "chapter_title": "第291章 《盗贼》，做剧本",
+      "word_count": 3244,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 292,
+      "chapter_title": "第292章 一起演",
+      "word_count": 3239,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 293,
+      "chapter_title": "第293章 文艺爱情片",
+      "word_count": 3462,
+      "paragraph_count": 141,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 294,
+      "chapter_title": "第294章 横扫国庆档",
+      "word_count": 3372,
+      "paragraph_count": 135,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 295,
+      "chapter_title": "第295章 《星运》的备案信息",
+      "word_count": 3253,
+      "paragraph_count": 131,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 296,
+      "chapter_title": "第296章 角色",
+      "word_count": 3254,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 297,
+      "chapter_title": "第297章 下映，定妆照",
+      "word_count": 3266,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 298,
+      "chapter_title": "第298章 开机，拍摄",
+      "word_count": 3173,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 299,
+      "chapter_title": "第299章 多灾多难",
+      "word_count": 3176,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 300,
+      "chapter_title": "第300章 《星运》，用力过猛的刘艺菲",
+      "word_count": 3624,
+      "paragraph_count": 153,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 301,
+      "chapter_title": "第301章 想法",
+      "word_count": 2970,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 302,
+      "chapter_title": "第302章 拒绝《鸿门宴》，电影节的邀请",
+      "word_count": 8926,
+      "paragraph_count": 335,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 304,
+      "chapter_title": "第304章 让子弹飞，心眼不大的林楠，版权",
+      "word_count": 5242,
+      "paragraph_count": 213,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 305,
+      "chapter_title": "第305章月，电影市场",
+      "word_count": 4550,
+      "paragraph_count": 169,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 306,
+      "chapter_title": "第306章 骆驼背上的草，放不了几根了",
+      "word_count": 3147,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 307,
+      "chapter_title": "第307章 成为资本",
+      "word_count": 9572,
+      "paragraph_count": 361,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 309,
+      "chapter_title": "第309章 春节，一九四二",
+      "word_count": 6431,
+      "paragraph_count": 249,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 311,
+      "chapter_title": "第311章 文旅项目",
+      "word_count": 3164,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 312,
+      "chapter_title": "第312章 看中了同一个艺考新生",
+      "word_count": 3134,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 313,
+      "chapter_title": "第313章 《十二生肖》，唐人",
+      "word_count": 3146,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 314,
+      "chapter_title": "第314章 《轩辕剑》，华亿艺人的简历",
+      "word_count": 2959,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 315,
+      "chapter_title": "第315章 签下她",
+      "word_count": 3233,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 316,
+      "chapter_title": "第316章 赵莉颖，入围",
+      "word_count": 7504,
+      "paragraph_count": 282,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 318,
+      "chapter_title": "第318章月，《战国》的首映",
+      "word_count": 3125,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 319,
+      "chapter_title": "第319章 哪儿哪儿都不对",
+      "word_count": 6935,
+      "paragraph_count": 265,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 321,
+      "chapter_title": "第321章 欢迎加入山海传媒",
+      "word_count": 3203,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 322,
+      "chapter_title": "第322章 《关云长》，刀断了",
+      "word_count": 3232,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 323,
+      "chapter_title": "第323章月，戛纳",
+      "word_count": 3195,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 324,
+      "chapter_title": "第324章 施南笙的话",
+      "word_count": 3248,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 325,
+      "chapter_title": "第325章 开幕式，红毯",
+      "word_count": 3164,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 326,
+      "chapter_title": "第326章 保底一个奖，闭幕式",
+      "word_count": 3378,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 327,
+      "chapter_title": "第327章 奖项",
+      "word_count": 3912,
+      "paragraph_count": 147,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 328,
+      "chapter_title": "第328章 版权交易",
+      "word_count": 3635,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 329,
+      "chapter_title": "第329章 定档期，配额",
+      "word_count": 3216,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 330,
+      "chapter_title": "第330章 好莱坞电影月，商业片",
+      "word_count": 3184,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 331,
+      "chapter_title": "第331章 科幻片",
+      "word_count": 5595,
+      "paragraph_count": 205,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 333,
+      "chapter_title": "第333章 剧本大改",
+      "word_count": 6630,
+      "paragraph_count": 238,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 335,
+      "chapter_title": "第335章 投资",
+      "word_count": 3181,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 336,
+      "chapter_title": "第336章 延期，邀请女主角",
+      "word_count": 3531,
+      "paragraph_count": 141,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 337,
+      "chapter_title": "第337章 上映，新片阵容公布",
+      "word_count": 3235,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 338,
+      "chapter_title": "第338章 偷票房风波，昂贵的草帽",
+      "word_count": 3448,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 339,
+      "chapter_title": "第339章 贺岁档，修改规则",
+      "word_count": 2787,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 340,
+      "chapter_title": "第340章 试镜，准备开机",
+      "word_count": 3234,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 341,
+      "chapter_title": "第341章 定档，带三爷去更衣",
+      "word_count": 3257,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 342,
+      "chapter_title": "第342章 票房成绩，拍摄",
+      "word_count": 3208,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 343,
+      "chapter_title": "第343章 《星运》首映，撩虎须",
+      "word_count": 3184,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 344,
+      "chapter_title": "第344章 骗过好多回，慢慢还",
+      "word_count": 3382,
+      "paragraph_count": 135,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 345,
+      "chapter_title": "第345章 首日票房，文艺片纪录",
+      "word_count": 3434,
+      "paragraph_count": 133,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 346,
+      "chapter_title": "第346章 破2亿，记得去锤林导",
+      "word_count": 3209,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 347,
+      "chapter_title": "第347章 邀请，邀请",
+      "word_count": 3155,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 348,
+      "chapter_title": "第348章 时间上有点冲突，4亿没问题",
+      "word_count": 3165,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 349,
+      "chapter_title": "第349章 塞人",
+      "word_count": 3164,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 350,
+      "chapter_title": "第350章 换角，赵莉颖",
+      "word_count": 3208,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 351,
+      "chapter_title": "第351章 半天时间处理好，或者封杀",
+      "word_count": 3185,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 352,
+      "chapter_title": "第352章 止步5亿之前，身价上涨",
+      "word_count": 3194,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 353,
+      "chapter_title": "第353章 下映，文艺片纪录，一起去",
+      "word_count": 3257,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 354,
+      "chapter_title": "第354章 把杨蜜当成目标，杀青大吉",
+      "word_count": 6420,
+      "paragraph_count": 214,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 356,
+      "chapter_title": "第356章 躲清闲，尘埃落定",
+      "word_count": 3175,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 357,
+      "chapter_title": "第357章 芭莎礼服，正面竞争",
+      "word_count": 3557,
+      "paragraph_count": 145,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 358,
+      "chapter_title": "第358章 今生因你痴狂",
+      "word_count": 4536,
+      "paragraph_count": 150,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 359,
+      "chapter_title": "第359章 小聪明，拒绝",
+      "word_count": 3382,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 360,
+      "chapter_title": "第360章 又一部夺宝动作片",
+      "word_count": 3163,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 361,
+      "chapter_title": "第361章 封杀？念头",
+      "word_count": 3361,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 362,
+      "chapter_title": "第362章 上映，笑话",
+      "word_count": 3435,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 363,
+      "chapter_title": "第363章 口碑崩盘，出岔子",
+      "word_count": 6435,
+      "paragraph_count": 211,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 365,
+      "chapter_title": "第365章 提高比例，蜜月期要到了",
+      "word_count": 3198,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 366,
+      "chapter_title": "第366章 小手术",
+      "word_count": 3205,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 367,
+      "chapter_title": "第367章 薛晓璐的剧本",
+      "word_count": 3235,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 368,
+      "chapter_title": "第368章 炮轰，下映",
+      "word_count": 2931,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 369,
+      "chapter_title": "第369章 决裂，人情",
+      "word_count": 3200,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 370,
+      "chapter_title": "第370章 《招魂》，教学视频",
+      "word_count": 3334,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 371,
+      "chapter_title": "第371章 对立，不跟",
+      "word_count": 3181,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 372,
+      "chapter_title": "第372章 背叛，剧本",
+      "word_count": 4407,
+      "paragraph_count": 165,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 373,
+      "chapter_title": "第373章 送审，选角",
+      "word_count": 3229,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 374,
+      "chapter_title": "第374章 杨蜜的选择，被毙",
+      "word_count": 3634,
+      "paragraph_count": 133,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 375,
+      "chapter_title": "第375章 指导意见，舒倡",
+      "word_count": 3186,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 376,
+      "chapter_title": "第376章 人选",
+      "word_count": 3147,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 377,
+      "chapter_title": "第377章 认儿子，绯闻",
+      "word_count": 3248,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 378,
+      "chapter_title": "第378章 贺岁档开始，过审",
+      "word_count": 3846,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 379,
+      "chapter_title": "第379章 立项，青春片",
+      "word_count": 3402,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 380,
+      "chapter_title": "第380章 盟友",
+      "word_count": 3210,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 381,
+      "chapter_title": "第381章 生活的乐趣",
+      "word_count": 3208,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 382,
+      "chapter_title": "第382章 大戏开始，出发",
+      "word_count": 3212,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 383,
+      "chapter_title": "第383章 抵港，酒会，耳光",
+      "word_count": 3616,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 384,
+      "chapter_title": "第384章 港交所，开机",
+      "word_count": 3209,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 385,
+      "chapter_title": "第385章 拍戏，来港岛上市",
+      "word_count": 3890,
+      "paragraph_count": 136,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 386,
+      "chapter_title": "第386章 万达，钱才是最不值钱的",
+      "word_count": 3291,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 387,
+      "chapter_title": "第387章 互补，跟了",
+      "word_count": 3394,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 388,
+      "chapter_title": "第388章 延期，韩三坪的投资",
+      "word_count": 6558,
+      "paragraph_count": 226,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 390,
+      "chapter_title": "第390章 小媳妇回家的感觉",
+      "word_count": 6382,
+      "paragraph_count": 222,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 392,
+      "chapter_title": "第392章 打断他的腿",
+      "word_count": 3405,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 393,
+      "chapter_title": "第393章 过半，分道扬镳",
+      "word_count": 7001,
+      "paragraph_count": 231,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 395,
+      "chapter_title": "第395章 光线放弃，万达招揽失败",
+      "word_count": 3839,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 396,
+      "chapter_title": "第396章 剧本，请客",
+      "word_count": 7140,
+      "paragraph_count": 242,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 398,
+      "chapter_title": "第398章 延期秘钥，功夫巨星",
+      "word_count": 3187,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 399,
+      "chapter_title": "第399章 一个人的",
+      "word_count": 3426,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 400,
+      "chapter_title": "第400章 对赌成功",
+      "word_count": 3147,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 401,
+      "chapter_title": "第401章亿花完了，狼来了",
+      "word_count": 3460,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 402,
+      "chapter_title": "第402章 股份，公开",
+      "word_count": 2141,
+      "paragraph_count": 73,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 403,
+      "chapter_title": "第403章 围剿",
+      "word_count": 3420,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 404,
+      "chapter_title": "第404章 《泰囧》开机，结束",
+      "word_count": 3651,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 405,
+      "chapter_title": "第405章 会拍续集，出事儿了",
+      "word_count": 3439,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 406,
+      "chapter_title": "第406章 争执",
+      "word_count": 3197,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 407,
+      "chapter_title": "第407章 王保强和赵炆卓",
+      "word_count": 3181,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 408,
+      "chapter_title": "第408章 护舒宝，双男主",
+      "word_count": 3422,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 409,
+      "chapter_title": "第409章 举报",
+      "word_count": 3179,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 410,
+      "chapter_title": "第410章 女团，男团",
+      "word_count": 3265,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 411,
+      "chapter_title": "第411章 堵截陆钏",
+      "word_count": 3203,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 412,
+      "chapter_title": "第412章 合约满两年了",
+      "word_count": 3187,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 413,
+      "chapter_title": "第413章 暑期档 国庆档 贺岁档",
+      "word_count": 3213,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 414,
+      "chapter_title": "第414章 吃瓜，囤积影视版权",
+      "word_count": 2982,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 415,
+      "chapter_title": "第415章 艰难的4月，打游击",
+      "word_count": 3223,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 416,
+      "chapter_title": "第416章 《匹夫》，爆火",
+      "word_count": 3209,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 417,
+      "chapter_title": "第417章 你会害死我的",
+      "word_count": 3460,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 418,
+      "chapter_title": "第418章 版权，尝试",
+      "word_count": 3163,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 419,
+      "chapter_title": "第419章 微调，时代已经变了",
+      "word_count": 3430,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 420,
+      "chapter_title": "第420章 还是科幻",
+      "word_count": 3229,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 421,
+      "chapter_title": "第421章 提前入场，狗大户",
+      "word_count": 3412,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 422,
+      "chapter_title": "第422章 唐人的骚操作，戛纳行",
+      "word_count": 3645,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 423,
+      "chapter_title": "第423章 版权交易纪录，最好别问",
+      "word_count": 3565,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 424,
+      "chapter_title": "第424章 金马，价格新高",
+      "word_count": 3651,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 425,
+      "chapter_title": "第425章 《盗贼》的遗憾，开始宣传",
+      "word_count": 3154,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 426,
+      "chapter_title": "第426章 不能失信于人",
+      "word_count": 6684,
+      "paragraph_count": 209,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 428,
+      "chapter_title": "第428章 压子棋，协议",
+      "word_count": 3826,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 429,
+      "chapter_title": "第429章 要求不高，但被拒绝",
+      "word_count": 3830,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 430,
+      "chapter_title": "第430章 暑期档临近，首映礼准备",
+      "word_count": 3638,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 431,
+      "chapter_title": "第431章 七宗罪，挑明了",
+      "word_count": 3387,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 432,
+      "chapter_title": "第432章 她会跨入一线队伍，威胁",
+      "word_count": 3531,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 433,
+      "chapter_title": "第433章月，杀青，暑期档开始",
+      "word_count": 6399,
+      "paragraph_count": 212,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 435,
+      "chapter_title": "第435章 影评，定档，首映礼筹备",
+      "word_count": 3410,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 436,
+      "chapter_title": "第436章 剧本",
+      "word_count": 2177,
+      "paragraph_count": 68,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 437,
+      "chapter_title": "第437章 首映礼，预言青春片",
+      "word_count": 6982,
+      "paragraph_count": 229,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 438,
+      "chapter_title": "第438章 上映",
+      "word_count": 3371,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 439,
+      "chapter_title": "第439章 扛起大旗",
+      "word_count": 3201,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 440,
+      "chapter_title": "第440章 你来决定吧",
+      "word_count": 3391,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 441,
+      "chapter_title": "第441章亿，郭幡的电影",
+      "word_count": 3339,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 442,
+      "chapter_title": "第442章 没有演员会不在意奖项",
+      "word_count": 3345,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 443,
+      "chapter_title": "第443章 公开试镜",
+      "word_count": 2545,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 444,
+      "chapter_title": "第444章 岳军的叹息声",
+      "word_count": 3617,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 445,
+      "chapter_title": "第445章 有些人，注定了是留不住的",
+      "word_count": 3625,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 446,
+      "chapter_title": "第446章 定角",
+      "word_count": 4236,
+      "paragraph_count": 156,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 447,
+      "chapter_title": "第447章 九月",
+      "word_count": 2998,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 448,
+      "chapter_title": "第448章 叶宁的邀请",
+      "word_count": 3426,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 449,
+      "chapter_title": "第449章 参投",
+      "word_count": 2237,
+      "paragraph_count": 84,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 450,
+      "chapter_title": "第450章 我感觉其他电影，没有一个能打的",
+      "word_count": 3658,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 451,
+      "chapter_title": "第451章 入围名单",
+      "word_count": 3298,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 452,
+      "chapter_title": "第452章 八项，首映",
+      "word_count": 4277,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 453,
+      "chapter_title": "第453章 对比",
+      "word_count": 3160,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 454,
+      "chapter_title": "第454章 贤内助的风采",
+      "word_count": 3392,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 455,
+      "chapter_title": "第455章 再次筹谋",
+      "word_count": 2972,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 456,
+      "chapter_title": "第456章 国庆档，版权",
+      "word_count": 3231,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 457,
+      "chapter_title": "第457章 熟悉的操作",
+      "word_count": 3240,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 458,
+      "chapter_title": "第458章 舆论，邀请",
+      "word_count": 3393,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 459,
+      "chapter_title": "第459章 结束",
+      "word_count": 3264,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 460,
+      "chapter_title": "第460章 强硬施压，如果只有一个奖",
+      "word_count": 6394,
+      "paragraph_count": 200,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 461,
+      "chapter_title": "第461章 二五仔，自此之后都不会变了",
+      "word_count": 7191,
+      "paragraph_count": 242,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 462,
+      "chapter_title": "第462章月，金马",
+      "word_count": 6643,
+      "paragraph_count": 234,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 463,
+      "chapter_title": "第463章 开始",
+      "word_count": 6758,
+      "paragraph_count": 241,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 464,
+      "chapter_title": "第464章 颁奖礼，归来",
+      "word_count": 12037,
+      "paragraph_count": 424,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 466,
+      "chapter_title": "第466章 请水军",
+      "word_count": 3281,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 467,
+      "chapter_title": "第467章 上映，怼",
+      "word_count": 3628,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 468,
+      "chapter_title": "第468章 延期秘钥，唐人的笑话",
+      "word_count": 2456,
+      "paragraph_count": 77,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 469,
+      "chapter_title": "第469章 动画电影项目",
+      "word_count": 3798,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 470,
+      "chapter_title": "第470章 投资，鸡贼的汤姆",
+      "word_count": 3487,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 471,
+      "chapter_title": "第471章 能不能将版权卖给我",
+      "word_count": 3647,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 472,
+      "chapter_title": "第472章 飞好莱坞",
+      "word_count": 3557,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 473,
+      "chapter_title": "第473章 意外的惊喜",
+      "word_count": 3480,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 474,
+      "chapter_title": "第474章 电影",
+      "word_count": 3211,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 475,
+      "chapter_title": "第475章 演员，试镜",
+      "word_count": 3403,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 476,
+      "chapter_title": "第476章 公关",
+      "word_count": 2655,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 477,
+      "chapter_title": "第477章 延期驳回，开机",
+      "word_count": 3644,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 478,
+      "chapter_title": "第478章 明年的奥斯卡",
+      "word_count": 3227,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 479,
+      "chapter_title": "第479章 拍摄，即将分道扬镳",
+      "word_count": 4096,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 480,
+      "chapter_title": "第480章 八卦",
+      "word_count": 3401,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 481,
+      "chapter_title": "第481章 回国，四小花旦",
+      "word_count": 4892,
+      "paragraph_count": 161,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 482,
+      "chapter_title": "第482章的可分账票房",
+      "word_count": 6625,
+      "paragraph_count": 212,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 484,
+      "chapter_title": "第484章 落下帷幕",
+      "word_count": 3615,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 485,
+      "chapter_title": "第485章 陈大导逃不开的质疑，电视剧",
+      "word_count": 3418,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 486,
+      "chapter_title": "第486章 亲家母",
+      "word_count": 3480,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 487,
+      "chapter_title": "第487章 春节档之战，我是沈藤",
+      "word_count": 3670,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 488,
+      "chapter_title": "第488章 有点同情华亿",
+      "word_count": 8262,
+      "paragraph_count": 275,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 490,
+      "chapter_title": "第490章 三月，开口",
+      "word_count": 4489,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 491,
+      "chapter_title": "第491章 离去",
+      "word_count": 3404,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 492,
+      "chapter_title": "第492章 昨日觥筹交错，今日对簿公堂",
+      "word_count": 4651,
+      "paragraph_count": 141,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 493,
+      "chapter_title": "第493章 投资，结果",
+      "word_count": 3625,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 494,
+      "chapter_title": "第494章 电影，电视剧，配音",
+      "word_count": 5511,
+      "paragraph_count": 167,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 495,
+      "chapter_title": "第495章 《冰雪奇缘》，选角，人情",
+      "word_count": 4424,
+      "paragraph_count": 138,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 496,
+      "chapter_title": "第496章 五十度",
+      "word_count": 2720,
+      "paragraph_count": 85,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 497,
+      "chapter_title": "第497章 又一部仙侠",
+      "word_count": 4692,
+      "paragraph_count": 142,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 498,
+      "chapter_title": "第498章 点映，报名",
+      "word_count": 3203,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 499,
+      "chapter_title": "第499章 乐视，笑到了最后",
+      "word_count": 14948,
+      "paragraph_count": 490,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 503,
+      "chapter_title": "第503章 正式报名，结束",
+      "word_count": 7920,
+      "paragraph_count": 278,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 505,
+      "chapter_title": "第505章 投资，立项，筹备",
+      "word_count": 4707,
+      "paragraph_count": 160,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 506,
+      "chapter_title": "第506章 副导演",
+      "word_count": 3234,
+      "paragraph_count": 120,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 507,
+      "chapter_title": "第507章 中影要钱有钱，要人有人",
+      "word_count": 4487,
+      "paragraph_count": 161,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 508,
+      "chapter_title": "第508章 滚",
+      "word_count": 4867,
+      "paragraph_count": 172,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 509,
+      "chapter_title": "第509章 组织给你一个任务",
+      "word_count": 4237,
+      "paragraph_count": 146,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 510,
+      "chapter_title": "第510章 卤水点豆腐",
+      "word_count": 3413,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 511,
+      "chapter_title": "第511章 父爱",
+      "word_count": 3978,
+      "paragraph_count": 139,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 512,
+      "chapter_title": "第512章 应该不会是闺女",
+      "word_count": 3304,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 513,
+      "chapter_title": "第513章 人还没走，茶就有点要凉的意思",
+      "word_count": 3211,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 514,
+      "chapter_title": "第514章 试镜",
+      "word_count": 3443,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 515,
+      "chapter_title": "第515章 客串",
+      "word_count": 3199,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 516,
+      "chapter_title": "第516章 结束",
+      "word_count": 3354,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 517,
+      "chapter_title": "第517章 准备进组",
+      "word_count": 3610,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 518,
+      "chapter_title": "第518章 开机，电话",
+      "word_count": 3865,
+      "paragraph_count": 137,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 519,
+      "chapter_title": "第519章 找冤大头，拒绝",
+      "word_count": 3486,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 520,
+      "chapter_title": "第520章 到此为止，养生越早越好",
+      "word_count": 3837,
+      "paragraph_count": 127,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 521,
+      "chapter_title": "第521章 天王盖地虎",
+      "word_count": 7749,
+      "paragraph_count": 252,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 523,
+      "chapter_title": "第523章 颁奖嘉宾",
+      "word_count": 3004,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 524,
+      "chapter_title": "第524章 韩三坪的经验之谈",
+      "word_count": 3650,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 525,
+      "chapter_title": "第525章 无缝衔接",
+      "word_count": 3226,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 526,
+      "chapter_title": "第526章 杀青前的戏",
+      "word_count": 3404,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 527,
+      "chapter_title": "第527章 结束",
+      "word_count": 3174,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 528,
+      "chapter_title": "第528章 先定个10亿票房的目标",
+      "word_count": 3415,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 529,
+      "chapter_title": "第529章 被围剿的郭敬名",
+      "word_count": 3320,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 530,
+      "chapter_title": "第530章 “座山雕”的时代，结束了",
+      "word_count": 3520,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 531,
+      "chapter_title": "第531章 两个BOSS",
+      "word_count": 3299,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 532,
+      "chapter_title": "第532章 定档，公关，批片",
+      "word_count": 3448,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 533,
+      "chapter_title": "第533章 吴亰不放人",
+      "word_count": 3237,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 534,
+      "chapter_title": "第534章 伴郎",
+      "word_count": 3270,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 535,
+      "chapter_title": "第535章 电影",
+      "word_count": 2160,
+      "paragraph_count": 80,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 536,
+      "chapter_title": "第536章 五百英亩的玉米",
+      "word_count": 7791,
+      "paragraph_count": 273,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 538,
+      "chapter_title": "第538章 演员名单",
+      "word_count": 3399,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 539,
+      "chapter_title": "第539章 目标：暑期档票房冠军",
+      "word_count": 3305,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 540,
+      "chapter_title": "第540章 神雕",
+      "word_count": 3303,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 541,
+      "chapter_title": "第541章 首映礼",
+      "word_count": 4260,
+      "paragraph_count": 144,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 542,
+      "chapter_title": "第542章 林楠眼中，唯一的小龙女",
+      "word_count": 3419,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 543,
+      "chapter_title": "第543章 票房",
+      "word_count": 3414,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 544,
+      "chapter_title": "第544章 小笼包，《战狼》杀青",
+      "word_count": 3365,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 545,
+      "chapter_title": "第545章 狼，真的要来了",
+      "word_count": 3578,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 546,
+      "chapter_title": "第546章月的乱战",
+      "word_count": 3219,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 547,
+      "chapter_title": "第547章 生产队的驴",
+      "word_count": 3245,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 548,
+      "chapter_title": "第548章 如果当初没有轧戏",
+      "word_count": 3465,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 549,
+      "chapter_title": "第549章 虽然有点丑，但真的很甜",
+      "word_count": 3850,
+      "paragraph_count": 138,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 550,
+      "chapter_title": "第550章 出发",
+      "word_count": 4284,
+      "paragraph_count": 152,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 551,
+      "chapter_title": "第551章 电视剧积累人气，电影提高咖位",
+      "word_count": 3419,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 552,
+      "chapter_title": "第552章 邀请，拒绝",
+      "word_count": 6850,
+      "paragraph_count": 237,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 554,
+      "chapter_title": "第554章 仙侠剧本",
+      "word_count": 3205,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 555,
+      "chapter_title": "第555章 子公司",
+      "word_count": 2866,
+      "paragraph_count": 88,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 556,
+      "chapter_title": "第556章 热门综艺",
+      "word_count": 3420,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 557,
+      "chapter_title": "第557章 幺蛾子，探班",
+      "word_count": 3214,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 558,
+      "chapter_title": "第558章 熟悉的声音，继续",
+      "word_count": 3408,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 559,
+      "chapter_title": "第559章 回程，水军的问题",
+      "word_count": 6628,
+      "paragraph_count": 213,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 561,
+      "chapter_title": "第561章 特效，春节档",
+      "word_count": 10633,
+      "paragraph_count": 340,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 564,
+      "chapter_title": "第564章 两百块的份子钱",
+      "word_count": 3199,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 565,
+      "chapter_title": "第565章 带个话儿，霸总",
+      "word_count": 3236,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 566,
+      "chapter_title": "第566章 正午阳光的来客",
+      "word_count": 3680,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 567,
+      "chapter_title": "第567章 《琅琊榜》？岳军的建议",
+      "word_count": 6600,
+      "paragraph_count": 202,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 569,
+      "chapter_title": "第569章 老夫少妻？干预选角",
+      "word_count": 4219,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 570,
+      "chapter_title": "第570章 手捧花，谁都没错",
+      "word_count": 4617,
+      "paragraph_count": 161,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 571,
+      "chapter_title": "第571章 强势定档，春节档的萌新",
+      "word_count": 3533,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 572,
+      "chapter_title": "第572章 震耳发聩，继续对赌",
+      "word_count": 9864,
+      "paragraph_count": 293,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 574,
+      "chapter_title": "第574章 好莱坞，公映和公关",
+      "word_count": 4516,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 575,
+      "chapter_title": "第575章 首日票房",
+      "word_count": 7820,
+      "paragraph_count": 248,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 577,
+      "chapter_title": "第577章 过半，亮肌肉",
+      "word_count": 3339,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 578,
+      "chapter_title": "第578章 贺岁档的杂事，正面冲突",
+      "word_count": 4503,
+      "paragraph_count": 137,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 579,
+      "chapter_title": "第579章 好像梦到妖精了",
+      "word_count": 3178,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 580,
+      "chapter_title": "第580章 在资本的路上，越跑越远",
+      "word_count": 4301,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 581,
+      "chapter_title": "第581章 《绣春刀2》，女主角",
+      "word_count": 3422,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 582,
+      "chapter_title": "第582章 王忠磊的邀请",
+      "word_count": 3424,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 583,
+      "chapter_title": "第583章 迟早能干掉陈恺歌",
+      "word_count": 6710,
+      "paragraph_count": 222,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 585,
+      "chapter_title": "第585章 又是一年元旦",
+      "word_count": 4536,
+      "paragraph_count": 141,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 586,
+      "chapter_title": "第586章 提名时间，要到了",
+      "word_count": 2384,
+      "paragraph_count": 75,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 587,
+      "chapter_title": "第587章 微博之夜，柏林和奥斯卡的提名",
+      "word_count": 6588,
+      "paragraph_count": 207,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 588,
+      "chapter_title": "第588章 去电影单一化，抛售",
+      "word_count": 4755,
+      "paragraph_count": 147,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 589,
+      "chapter_title": "第589章 改善生活",
+      "word_count": 8684,
+      "paragraph_count": 275,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 591,
+      "chapter_title": "第591章 公映，订婚计划",
+      "word_count": 3630,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 592,
+      "chapter_title": "第592章 单日票房破亿的时代",
+      "word_count": 3442,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 593,
+      "chapter_title": "第593章 “称霸”贺岁档，回校",
+      "word_count": 6782,
+      "paragraph_count": 224,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 595,
+      "chapter_title": "第595章 完成对赌，延期，过审",
+      "word_count": 4833,
+      "paragraph_count": 159,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 596,
+      "chapter_title": "第596章 奥斯卡在即，刷新纪录",
+      "word_count": 2373,
+      "paragraph_count": 74,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 597,
+      "chapter_title": "第597章 出发，好莱坞",
+      "word_count": 3228,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 598,
+      "chapter_title": "第598章 再开一部冲奖片",
+      "word_count": 2398,
+      "paragraph_count": 81,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 599,
+      "chapter_title": "第599章 颁奖礼，确定新片",
+      "word_count": 8640,
+      "paragraph_count": 297,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 600,
+      "chapter_title": "第600章 林楠VS张一谋",
+      "word_count": 3163,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 601,
+      "chapter_title": "第601章 第五百九十八 选角，替代",
+      "word_count": 2751,
+      "paragraph_count": 88,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 602,
+      "chapter_title": "第602章 “韦恩斯坦”式的快乐",
+      "word_count": 3554,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 603,
+      "chapter_title": "第603章 上市之旅，正式开始",
+      "word_count": 3360,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 604,
+      "chapter_title": "第604章 拍摄过半，招股书",
+      "word_count": 3835,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 605,
+      "chapter_title": "第605章 二十亿时代",
+      "word_count": 3412,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 606,
+      "chapter_title": "第606章 下映，杀青",
+      "word_count": 3247,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 607,
+      "chapter_title": "第607章 回国，四月",
+      "word_count": 3705,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 608,
+      "chapter_title": "第608章 卖掉，庆功宴，偷师",
+      "word_count": 6178,
+      "paragraph_count": 199,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 610,
+      "chapter_title": "第610章 上市在即，面谈",
+      "word_count": 3402,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 611,
+      "chapter_title": "第611章 林教授！林老师",
+      "word_count": 3422,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 612,
+      "chapter_title": "第612章 上市",
+      "word_count": 4542,
+      "paragraph_count": 139,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 613,
+      "chapter_title": "第613章 市值",
+      "word_count": 4530,
+      "paragraph_count": 135,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 614,
+      "chapter_title": "第614章 影视投资",
+      "word_count": 2766,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 615,
+      "chapter_title": "第615章 天秤的两端",
+      "word_count": 6629,
+      "paragraph_count": 213,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 617,
+      "chapter_title": "第617章 快播，20，40",
+      "word_count": 6852,
+      "paragraph_count": 221,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 619,
+      "chapter_title": "第619章 选择比努力更重要，投资邀请",
+      "word_count": 11202,
+      "paragraph_count": 349,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 622,
+      "chapter_title": "第622章 金球 奥斯卡 柏林？插旗子",
+      "word_count": 3208,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 623,
+      "chapter_title": "第623章 插刀教的，不要",
+      "word_count": 5543,
+      "paragraph_count": 173,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 625,
+      "chapter_title": "第625章 《寻龙诀》，再次抛售",
+      "word_count": 3214,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 626,
+      "chapter_title": "第626章 让热巴去演《寻龙诀》？剑网行动",
+      "word_count": 4464,
+      "paragraph_count": 135,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 627,
+      "chapter_title": "第627章 公开，筹备",
+      "word_count": 3440,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 628,
+      "chapter_title": "第628章 投资份额，得寸进尺",
+      "word_count": 3615,
+      "paragraph_count": 115,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 629,
+      "chapter_title": "第629章 最后一个常驻嘉宾",
+      "word_count": 3206,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 630,
+      "chapter_title": "第630章 黄教主？赵炆卓的回复",
+      "word_count": 3446,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 631,
+      "chapter_title": "第631章 盘正条顺，角色曾梨",
+      "word_count": 4500,
+      "paragraph_count": 145,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 632,
+      "chapter_title": "第632章 定角，金球和奥斯卡，杨蜜的提议",
+      "word_count": 6839,
+      "paragraph_count": 210,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 633,
+      "chapter_title": "第633章 份额分配；雪花飘飘，北风萧萧",
+      "word_count": 6962,
+      "paragraph_count": 231,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 634,
+      "chapter_title": "第634章 热门IP粉丝电影名人导演",
+      "word_count": 8065,
+      "paragraph_count": 242,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 635,
+      "chapter_title": "第635章 大数据！选择企鹅",
+      "word_count": 10144,
+      "paragraph_count": 310,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 637,
+      "chapter_title": "第637章 初步预算3个亿",
+      "word_count": 6859,
+      "paragraph_count": 238,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 639,
+      "chapter_title": "第639章 学院成员",
+      "word_count": 3692,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 639,
+      "chapter_title": "第639章 再积累两年",
+      "word_count": 3405,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 641,
+      "chapter_title": "第641章 提前为姜闻默哀",
+      "word_count": 2567,
+      "paragraph_count": 75,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 642,
+      "chapter_title": "第642章 我们都欠周星池一张电影票",
+      "word_count": 3645,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 643,
+      "chapter_title": "第643章 《跑男》开录，暑期档开始",
+      "word_count": 3284,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 644,
+      "chapter_title": "第644章 公映，陆大编剧的人身攻击",
+      "word_count": 3438,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 645,
+      "chapter_title": "第645章 刷新纪录，《美人鱼》立项",
+      "word_count": 3276,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 646,
+      "chapter_title": "第646章 公映计划",
+      "word_count": 3650,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 647,
+      "chapter_title": "第647章 我喜欢她，到骨子里",
+      "word_count": 3404,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 648,
+      "chapter_title": "第648章 定档，合拍片",
+      "word_count": 3223,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 649,
+      "chapter_title": "第649章 在我看来，林楠最合适",
+      "word_count": 3449,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 650,
+      "chapter_title": "第650章 喇董，要吹黑哨了",
+      "word_count": 3393,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 651,
+      "chapter_title": "第651章 宁皓的拉拢",
+      "word_count": 3169,
+      "paragraph_count": 90,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 652,
+      "chapter_title": "第652章 《叶问》系列该结束了",
+      "word_count": 2150,
+      "paragraph_count": 60,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 653,
+      "chapter_title": "第653章 一声“师哥”，有点贵",
+      "word_count": 3480,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 654,
+      "chapter_title": "第654章 都知道了",
+      "word_count": 3420,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 655,
+      "chapter_title": "第655章 就当它是一场梦，突然醒了",
+      "word_count": 3250,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 656,
+      "chapter_title": "第656章 厚脸皮的董诚鹏，林楠的建议",
+      "word_count": 3635,
+      "paragraph_count": 113,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 657,
+      "chapter_title": "第657章 父母对子女的另一种爱",
+      "word_count": 3208,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 658,
+      "chapter_title": "第658章 去跟整个影视圈为敌",
+      "word_count": 7623,
+      "paragraph_count": 243,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 660,
+      "chapter_title": "第660章 带头",
+      "word_count": 2591,
+      "paragraph_count": 82,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 661,
+      "chapter_title": "第661章 单方面",
+      "word_count": 5136,
+      "paragraph_count": 154,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 662,
+      "chapter_title": "第662章 口碑，爆表了",
+      "word_count": 3243,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 663,
+      "chapter_title": "第663章 舆论叠加",
+      "word_count": 3310,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 664,
+      "chapter_title": "第664章 曹保评的新电影",
+      "word_count": 5336,
+      "paragraph_count": 158,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 665,
+      "chapter_title": "第665章 做好随叫随到的准备",
+      "word_count": 3435,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 666,
+      "chapter_title": "第666章 这辈子，认命了",
+      "word_count": 3191,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 667,
+      "chapter_title": "第667章 势在必行",
+      "word_count": 6929,
+      "paragraph_count": 208,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 668,
+      "chapter_title": "第668章 刘艺菲接机",
+      "word_count": 6550,
+      "paragraph_count": 193,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 669,
+      "chapter_title": "第669章 汤姆的恭喜",
+      "word_count": 3190,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 670,
+      "chapter_title": "第670章 奥斯卡，娱乐圈的泥潭",
+      "word_count": 3459,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 671,
+      "chapter_title": "第671章 接机",
+      "word_count": 3398,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 672,
+      "chapter_title": "第672章 红包，一天",
+      "word_count": 3200,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 673,
+      "chapter_title": "第673章 芳菲苑，徐客",
+      "word_count": 3159,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 674,
+      "chapter_title": "第674章 反对意见",
+      "word_count": 3617,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 675,
+      "chapter_title": "第675章 自此缘定三生",
+      "word_count": 3612,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 676,
+      "chapter_title": "第676章 韩董也会去",
+      "word_count": 3476,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 677,
+      "chapter_title": "第677章 讲点正能量的",
+      "word_count": 6580,
+      "paragraph_count": 203,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 678,
+      "chapter_title": "第678章 保底趋势，告诫",
+      "word_count": 4504,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 679,
+      "chapter_title": "第679章 《跑男》，烦",
+      "word_count": 2112,
+      "paragraph_count": 59,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 680,
+      "chapter_title": "第680章 婚前财产公证？交易价格",
+      "word_count": 6462,
+      "paragraph_count": 193,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 681,
+      "chapter_title": "第681章 曲线救国的办法，景恬",
+      "word_count": 6813,
+      "paragraph_count": 206,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 683,
+      "chapter_title": "第683章 重返柏林，王大导演",
+      "word_count": 3408,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 684,
+      "chapter_title": "第684章 海选决赛，周星池的战火",
+      "word_count": 3161,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 685,
+      "chapter_title": "第685章 站队，表态",
+      "word_count": 3642,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 686,
+      "chapter_title": "第686章 结束，夫人路线",
+      "word_count": 3472,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 687,
+      "chapter_title": "第687章 欢喜，邀请",
+      "word_count": 6687,
+      "paragraph_count": 204,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 689,
+      "chapter_title": "第689章 幺蛾子，堵车了",
+      "word_count": 3644,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 690,
+      "chapter_title": "第690章 鄙人向崋",
+      "word_count": 6371,
+      "paragraph_count": 199,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 692,
+      "chapter_title": "第692章 阿里的时代，“领头羊”和“指路灯”",
+      "word_count": 3230,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 693,
+      "chapter_title": "第693章 阿里的鸠占鹊巢",
+      "word_count": 3270,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 694,
+      "chapter_title": "第694章 文件，出来了",
+      "word_count": 3204,
+      "paragraph_count": 100,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 695,
+      "chapter_title": "第695章 首日破亿，学院的纳新",
+      "word_count": 3178,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 696,
+      "chapter_title": "第696章 评委，反怼，传奇和环球的到来",
+      "word_count": 6307,
+      "paragraph_count": 174,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 697,
+      "chapter_title": "第697章 要中式婚礼，《长城》正式立项",
+      "word_count": 7149,
+      "paragraph_count": 209,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 698,
+      "chapter_title": "第698章 林楠的软肋，我要剧本的删改权",
+      "word_count": 3441,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 699,
+      "chapter_title": "第699章 拒绝",
+      "word_count": 6855,
+      "paragraph_count": 206,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 701,
+      "chapter_title": "第701章 漫画",
+      "word_count": 5821,
+      "paragraph_count": 165,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 703,
+      "chapter_title": "第703章 《跑男》爆了",
+      "word_count": 3596,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 704,
+      "chapter_title": "第704章 计划",
+      "word_count": 4257,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 705,
+      "chapter_title": "第705章 只要你去了，就一定",
+      "word_count": 10127,
+      "paragraph_count": 315,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 707,
+      "chapter_title": "第707章 刷掉，庆功",
+      "word_count": 3199,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 708,
+      "chapter_title": "第708章 欢迎林楠导演回到柏林！定角",
+      "word_count": 3433,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 709,
+      "chapter_title": "第709章 好闺蜜，光头的样子",
+      "word_count": 3219,
+      "paragraph_count": 90,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 710,
+      "chapter_title": "第710章 送审，版权",
+      "word_count": 3196,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 711,
+      "chapter_title": "第711章 首映礼见",
+      "word_count": 6608,
+      "paragraph_count": 202,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 712,
+      "chapter_title": "第712章 结束",
+      "word_count": 5801,
+      "paragraph_count": 173,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 713,
+      "chapter_title": "第713章 首日",
+      "word_count": 12774,
+      "paragraph_count": 349,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 715,
+      "chapter_title": "第715章 花痴，刘艺菲",
+      "word_count": 3385,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 716,
+      "chapter_title": "第716章 两百万股，抛吧",
+      "word_count": 3403,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 717,
+      "chapter_title": "第717章 夹着嗓子，撒个娇",
+      "word_count": 10269,
+      "paragraph_count": 310,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 720,
+      "chapter_title": "第720章 生日礼物，它有毒",
+      "word_count": 7394,
+      "paragraph_count": 208,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 721,
+      "chapter_title": "第721章 凤冠霞帔，金球提名",
+      "word_count": 7399,
+      "paragraph_count": 224,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 722,
+      "chapter_title": "第722章 六项，该出发了",
+      "word_count": 8925,
+      "paragraph_count": 261,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 724,
+      "chapter_title": "第724章 如果真到了那一天，我应该会退出",
+      "word_count": 5786,
+      "paragraph_count": 189,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 726,
+      "chapter_title": "第726章 姜郎才尽？柏林国际电影节",
+      "word_count": 2559,
+      "paragraph_count": 72,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 727,
+      "chapter_title": "第727章 林楠的主意，国内的冤大头",
+      "word_count": 6908,
+      "paragraph_count": 195,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 729,
+      "chapter_title": "第729章 人情世故，回国",
+      "word_count": 7426,
+      "paragraph_count": 233,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 731,
+      "chapter_title": "第731章 好言难劝该死的鬼",
+      "word_count": 5278,
+      "paragraph_count": 158,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 732,
+      "chapter_title": "第732章 关系户",
+      "word_count": 2583,
+      "paragraph_count": 75,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 733,
+      "chapter_title": "第733章 新的资本",
+      "word_count": 6658,
+      "paragraph_count": 211,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 735,
+      "chapter_title": "第735章 评审团主席的瘾",
+      "word_count": 4223,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 736,
+      "chapter_title": "第736章 平掉甚至刷掉陈导的纪录",
+      "word_count": 3403,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 737,
+      "chapter_title": "第737章 六提六中",
+      "word_count": 3655,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 738,
+      "chapter_title": "第738章 颁奖，六提四中",
+      "word_count": 15460,
+      "paragraph_count": 453,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 741,
+      "chapter_title": "第741章 顶风作案的陈大导",
+      "word_count": 3468,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 742,
+      "chapter_title": "第742章 雷嘉音，王保强",
+      "word_count": 6654,
+      "paragraph_count": 204,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 744,
+      "chapter_title": "第744章 分红，我在等60块",
+      "word_count": 6978,
+      "paragraph_count": 212,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 746,
+      "chapter_title": "第746章 柏林",
+      "word_count": 4683,
+      "paragraph_count": 140,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 747,
+      "chapter_title": "第747章 剑指金熊，陈大导",
+      "word_count": 4407,
+      "paragraph_count": 121,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 748,
+      "chapter_title": "第748章 公主系列",
+      "word_count": 2370,
+      "paragraph_count": 69,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 749,
+      "chapter_title": "第749章 首映，巴黎",
+      "word_count": 3397,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 750,
+      "chapter_title": "第750章 父女",
+      "word_count": 3870,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 751,
+      "chapter_title": "第751章 请您和剧组务必",
+      "word_count": 3440,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 752,
+      "chapter_title": "第752章 颗粒无收",
+      "word_count": 3899,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 753,
+      "chapter_title": "第753章 红毯，干一票大的",
+      "word_count": 7746,
+      "paragraph_count": 226,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 754,
+      "chapter_title": "第754章 版权交易，中餐大厨",
+      "word_count": 8570,
+      "paragraph_count": 266,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 755,
+      "chapter_title": "第755章 除夕，分开",
+      "word_count": 6488,
+      "paragraph_count": 189,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 757,
+      "chapter_title": "第757章 “小鲜肉”和“流量明星”的时代来了",
+      "word_count": 10190,
+      "paragraph_count": 299,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 759,
+      "chapter_title": "第759章 泪洒奥斯卡",
+      "word_count": 6414,
+      "paragraph_count": 181,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 760,
+      "chapter_title": "第760章 影帝！首个！回国",
+      "word_count": 10169,
+      "paragraph_count": 310,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 762,
+      "chapter_title": "第762章 功成名就？玩儿",
+      "word_count": 16240,
+      "paragraph_count": 494,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 765,
+      "chapter_title": "第765章 预算，划分",
+      "word_count": 3393,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 766,
+      "chapter_title": "第766章 任中伦的助攻",
+      "word_count": 3999,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 767,
+      "chapter_title": "第767章 金鸡，去一次就够了",
+      "word_count": 7038,
+      "paragraph_count": 212,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 769,
+      "chapter_title": "第769章 口无遮拦",
+      "word_count": 3381,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 770,
+      "chapter_title": "第770章 中戏的艺考生",
+      "word_count": 2975,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 771,
+      "chapter_title": "第771章 婉拒",
+      "word_count": 4776,
+      "paragraph_count": 141,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 772,
+      "chapter_title": "第772章 试镜的演员们",
+      "word_count": 6767,
+      "paragraph_count": 214,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 774,
+      "chapter_title": "第774章 新片邀约，备案",
+      "word_count": 3408,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 775,
+      "chapter_title": "第775章 我需要个娘炮",
+      "word_count": 4049,
+      "paragraph_count": 122,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 776,
+      "chapter_title": "第776章 《情定西雅图2》，礼物",
+      "word_count": 3365,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 777,
+      "chapter_title": "第777章 首映礼，吴亰欠的人情，出发",
+      "word_count": 3797,
+      "paragraph_count": 111,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 778,
+      "chapter_title": "第778章 有仇报仇？妆造",
+      "word_count": 3403,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 779,
+      "chapter_title": "第779章 悟空",
+      "word_count": 4026,
+      "paragraph_count": 129,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 780,
+      "chapter_title": "第780章 《战狼》续集？送审",
+      "word_count": 3375,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 781,
+      "chapter_title": "第781章 首周",
+      "word_count": 3765,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 782,
+      "chapter_title": "第782章 恐将丢失票房冠军宝座",
+      "word_count": 3639,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 783,
+      "chapter_title": "第783章 刘艺菲的票房分账",
+      "word_count": 5685,
+      "paragraph_count": 166,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 785,
+      "chapter_title": "第785章 建议考中戏，《寻龙诀》完成",
+      "word_count": 3196,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 786,
+      "chapter_title": "第786章 公示，终于等到了",
+      "word_count": 3412,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 787,
+      "chapter_title": "第787章 港籍，706亿",
+      "word_count": 3225,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 788,
+      "chapter_title": "第788章 细思极恐的开放式结局，回国",
+      "word_count": 4405,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 789,
+      "chapter_title": "第789章 史诗级神话巨作",
+      "word_count": 6428,
+      "paragraph_count": 183,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 791,
+      "chapter_title": "第791章 清仓吧",
+      "word_count": 6818,
+      "paragraph_count": 188,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 793,
+      "chapter_title": "第793章 院线？应该会有的；探班",
+      "word_count": 5600,
+      "paragraph_count": 159,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 795,
+      "chapter_title": "第795章 继续往下砍，公映，5月将尽",
+      "word_count": 6335,
+      "paragraph_count": 166,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 796,
+      "chapter_title": "第796章年时间9个亿；票房；感谢",
+      "word_count": 10153,
+      "paragraph_count": 285,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 798,
+      "chapter_title": "第798章 主旋律对港圈的意义",
+      "word_count": 3191,
+      "paragraph_count": 85,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 799,
+      "chapter_title": "第799章 回家，半壁江山",
+      "word_count": 6795,
+      "paragraph_count": 178,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 801,
+      "chapter_title": "第801章 卖给他们",
+      "word_count": 7261,
+      "paragraph_count": 197,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 803,
+      "chapter_title": "第803章 没有永远的敌人，只有永远的利益",
+      "word_count": 3400,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 804,
+      "chapter_title": "第804章 这次就算了，交易",
+      "word_count": 7617,
+      "paragraph_count": 205,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 806,
+      "chapter_title": "第806章 挖墙脚",
+      "word_count": 7023,
+      "paragraph_count": 196,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 808,
+      "chapter_title": "第808章 一片呜呼哀哉",
+      "word_count": 3413,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 809,
+      "chapter_title": "第809章 红星坞的电视剧",
+      "word_count": 3577,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 810,
+      "chapter_title": "第810章 马董会亲自去沟通的",
+      "word_count": 3437,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 811,
+      "chapter_title": "第811章 陈导也要开始铺路了",
+      "word_count": 2231,
+      "paragraph_count": 67,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 812,
+      "chapter_title": "第812章 股灾，上影的邀请，教主的请帖",
+      "word_count": 4294,
+      "paragraph_count": 124,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 813,
+      "chapter_title": "第813章 四个厅",
+      "word_count": 2194,
+      "paragraph_count": 61,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 814,
+      "chapter_title": "第814章 暗戳戳，送审，大会堂",
+      "word_count": 6765,
+      "paragraph_count": 206,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 815,
+      "chapter_title": "第815章 金盾的份额，挑刺儿",
+      "word_count": 6522,
+      "paragraph_count": 186,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 816,
+      "chapter_title": "第816章 官宣《三生三世》，王忠磊的“计划”",
+      "word_count": 6701,
+      "paragraph_count": 196,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 818,
+      "chapter_title": "第818章 血洗贺岁档！《仙剑》？打回",
+      "word_count": 12641,
+      "paragraph_count": 380,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 820,
+      "chapter_title": "第820章 顶级的大导演，一定是顶级的摄影师",
+      "word_count": 4431,
+      "paragraph_count": 132,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 821,
+      "chapter_title": "第821章 审讯？公映",
+      "word_count": 6586,
+      "paragraph_count": 186,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 823,
+      "chapter_title": "第823章 再创新高，立项发布会",
+      "word_count": 3646,
+      "paragraph_count": 106,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 824,
+      "chapter_title": "第824章 拍摄许可，阴谋论",
+      "word_count": 16725,
+      "paragraph_count": 465,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 827,
+      "chapter_title": "第827章 份额，压榨，人脉",
+      "word_count": 6799,
+      "paragraph_count": 199,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 828,
+      "chapter_title": "第828章 跨行的王保强，经纪人宋什么",
+      "word_count": 3418,
+      "paragraph_count": 96,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 829,
+      "chapter_title": "第829章 备案，给过审",
+      "word_count": 3220,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 830,
+      "chapter_title": "第830章 全网票选，第一 第二",
+      "word_count": 10498,
+      "paragraph_count": 317,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 833,
+      "chapter_title": "第833章 点名，点名",
+      "word_count": 3406,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 834,
+      "chapter_title": "第834章 不清楚 不明了 不知晓",
+      "word_count": 3406,
+      "paragraph_count": 108,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 835,
+      "chapter_title": "第835章 林楠：我现在实名举报",
+      "word_count": 3821,
+      "paragraph_count": 119,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 836,
+      "chapter_title": "第836章 彻底两清了！安乐的对策",
+      "word_count": 3403,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 837,
+      "chapter_title": "第837章 公益？无耻行径",
+      "word_count": 3750,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 838,
+      "chapter_title": "第838章 封杀？男二号",
+      "word_count": 6963,
+      "paragraph_count": 205,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 839,
+      "chapter_title": "第839章 资深的好老板；山海院线",
+      "word_count": 5105,
+      "paragraph_count": 147,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 840,
+      "chapter_title": "第840章 婚礼请柬",
+      "word_count": 3178,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 841,
+      "chapter_title": "第841章 我可不是禽兽",
+      "word_count": 3228,
+      "paragraph_count": 85,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 842,
+      "chapter_title": "第842章 金鸡，提名",
+      "word_count": 6775,
+      "paragraph_count": 192,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 843,
+      "chapter_title": "第843章 态度坚定，票选",
+      "word_count": 5970,
+      "paragraph_count": 156,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 845,
+      "chapter_title": "第845章 没有意向，做不了主",
+      "word_count": 3404,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 846,
+      "chapter_title": "第846章 《三生三世》电影 电视剧",
+      "word_count": 3828,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 847,
+      "chapter_title": "第847章 《驴得水》，港片资源",
+      "word_count": 3407,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 848,
+      "chapter_title": "第848章 土豆，一轮前的碰面",
+      "word_count": 2376,
+      "paragraph_count": 66,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 849,
+      "chapter_title": "第849章 婚礼请柬，公开；顾常卫的包票",
+      "word_count": 6589,
+      "paragraph_count": 193,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 850,
+      "chapter_title": "第850章 婚礼赞助？汤姆的行程",
+      "word_count": 4478,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 851,
+      "chapter_title": "第851章 剩下的500万，我来投",
+      "word_count": 6566,
+      "paragraph_count": 178,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 852,
+      "chapter_title": "第852章 给自己放婚假，答谢礼物",
+      "word_count": 3628,
+      "paragraph_count": 86,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 853,
+      "chapter_title": "第853章 对赌",
+      "word_count": 3589,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 854,
+      "chapter_title": "第854章 增加股份占比，接机",
+      "word_count": 3424,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 855,
+      "chapter_title": "第855章 后天，生日那天",
+      "word_count": 9705,
+      "paragraph_count": 280,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 857,
+      "chapter_title": "第857章 彻底套牢；水晶影业，汤姆到了",
+      "word_count": 12395,
+      "paragraph_count": 336,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 860,
+      "chapter_title": "第860章 华亿偃旗息鼓的内幕；刘艺菲的一身行头",
+      "word_count": 3433,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 861,
+      "chapter_title": "第861章 伟人那句话说的真好",
+      "word_count": 3205,
+      "paragraph_count": 80,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 862,
+      "chapter_title": "第862章 林楠的第一课",
+      "word_count": 4243,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 863,
+      "chapter_title": "第863章亿，来客",
+      "word_count": 5522,
+      "paragraph_count": 137,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 865,
+      "chapter_title": "第865章 厌烦，姜闻，电影",
+      "word_count": 3180,
+      "paragraph_count": 78,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 866,
+      "chapter_title": "第866章 好莱坞军团到了",
+      "word_count": 2403,
+      "paragraph_count": 66,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 867,
+      "chapter_title": "第867章 大婚，洞房花烛夜",
+      "word_count": 9788,
+      "paragraph_count": 299,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 868,
+      "chapter_title": "第868章 真赚钱！《湄公河行动》，勘景完成",
+      "word_count": 3394,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 869,
+      "chapter_title": "第869章 “恶心”金鸡？再论人情世故",
+      "word_count": 3154,
+      "paragraph_count": 77,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 870,
+      "chapter_title": "第870章 大动作；如果真有了",
+      "word_count": 3401,
+      "paragraph_count": 85,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 871,
+      "chapter_title": "第871章 结束，四提林楠",
+      "word_count": 4695,
+      "paragraph_count": 136,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 872,
+      "chapter_title": "第872章 热巴，芭莎",
+      "word_count": 3437,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 873,
+      "chapter_title": "第873章 融资庆功酒会，《湄公河行动》拍摄计划",
+      "word_count": 6794,
+      "paragraph_count": 187,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 875,
+      "chapter_title": "第875章 《湄公河行动》定角",
+      "word_count": 8126,
+      "paragraph_count": 236,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 877,
+      "chapter_title": "第877章 后续，投资划分",
+      "word_count": 4473,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 878,
+      "chapter_title": "第878章 这是一部15亿票房的喜剧电影",
+      "word_count": 3827,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 879,
+      "chapter_title": "第879章 《湄公河行动》总摄影师？生意惨不忍睹",
+      "word_count": 3186,
+      "paragraph_count": 84,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 880,
+      "chapter_title": "第880章 部里的高规格待遇，定下",
+      "word_count": 5374,
+      "paragraph_count": 142,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 882,
+      "chapter_title": "第882章 林楠影业电影市场；开拍",
+      "word_count": 6334,
+      "paragraph_count": 150,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 883,
+      "chapter_title": "第883章 延期？封路！被踢出局",
+      "word_count": 6384,
+      "paragraph_count": 172,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 884,
+      "chapter_title": "第884章 魔都行；负面舆论",
+      "word_count": 13078,
+      "paragraph_count": 372,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 886,
+      "chapter_title": "第886章 投资对赌 收购对赌；华表",
+      "word_count": 11675,
+      "paragraph_count": 320,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 888,
+      "chapter_title": "第888章 续集，公告",
+      "word_count": 3417,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 889,
+      "chapter_title": "第889章 融资；叶宁",
+      "word_count": 10959,
+      "paragraph_count": 298,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 891,
+      "chapter_title": "第891章 《叶问4》；土豆公告，自即日起",
+      "word_count": 5308,
+      "paragraph_count": 135,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 892,
+      "chapter_title": "第892章 融资晚宴；《三生三世十里桃花》就绪",
+      "word_count": 39598,
+      "paragraph_count": 1050,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 902,
+      "chapter_title": "第902章 奥斯卡行程，续集准备",
+      "word_count": 6161,
+      "paragraph_count": 155,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 904,
+      "chapter_title": "第904章 到两个亿了！换个庄园",
+      "word_count": 6600,
+      "paragraph_count": 178,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 906,
+      "chapter_title": "第906章 准备一部或者两部电影",
+      "word_count": 10034,
+      "paragraph_count": 272,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 909,
+      "chapter_title": "第909章 一部有意义的剧本 ；中戏宣传",
+      "word_count": 14959,
+      "paragraph_count": 408,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 913,
+      "chapter_title": "第913章 陈大导的小儿子",
+      "word_count": 2788,
+      "paragraph_count": 79,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 914,
+      "chapter_title": "第914章 首日票房，流量明星",
+      "word_count": 3461,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 915,
+      "chapter_title": "第915章 投资黄博，正教授",
+      "word_count": 7083,
+      "paragraph_count": 187,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 917,
+      "chapter_title": "第917章 封神",
+      "word_count": 2318,
+      "paragraph_count": 54,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 918,
+      "chapter_title": "第918章 给资源",
+      "word_count": 10062,
+      "paragraph_count": 278,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 921,
+      "chapter_title": "第921章 打林楠的主意；水越深越好",
+      "word_count": 3364,
+      "paragraph_count": 88,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 922,
+      "chapter_title": "第922章 低调的杀青，刘德哗的情面",
+      "word_count": 3392,
+      "paragraph_count": 90,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 923,
+      "chapter_title": "第923章 于波，周易早就是过去式了",
+      "word_count": 2341,
+      "paragraph_count": 66,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 924,
+      "chapter_title": "第924章 不要损公肥私",
+      "word_count": 3394,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 925,
+      "chapter_title": "第925章 我想找我师哥，北电的大导演",
+      "word_count": 6816,
+      "paragraph_count": 179,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 927,
+      "chapter_title": "第927章 一口一个理解；父慈女孝",
+      "word_count": 3402,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 928,
+      "chapter_title": "第928章 开机；得回老家",
+      "word_count": 6850,
+      "paragraph_count": 188,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 930,
+      "chapter_title": "第930章 得罪哪边？二选一",
+      "word_count": 3636,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 931,
+      "chapter_title": "第931章 对比；选角开始",
+      "word_count": 16081,
+      "paragraph_count": 433,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 934,
+      "chapter_title": "第934章 行业的生存法则，认怂，冯晓刚的目标",
+      "word_count": 3346,
+      "paragraph_count": 73,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 935,
+      "chapter_title": "第935章 提前透露，荧幕顶级面孔阵容",
+      "word_count": 2537,
+      "paragraph_count": 69,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 936,
+      "chapter_title": "第936章 定角五人，电影落幕；首映礼 庆功宴，未来的项目计划",
+      "word_count": 43472,
+      "paragraph_count": 1151,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 946,
+      "chapter_title": "第946章 好家伙！主旋律商业片与主旋律商业片",
+      "word_count": 3224,
+      "paragraph_count": 84,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 947,
+      "chapter_title": "第947章 新电影项目邀请",
+      "word_count": 3224,
+      "paragraph_count": 81,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 948,
+      "chapter_title": "第948章 两周，20亿！金盾",
+      "word_count": 3488,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 949,
+      "chapter_title": "第949章 贪婪的港圈大导演；开会",
+      "word_count": 6807,
+      "paragraph_count": 186,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 951,
+      "chapter_title": "第951章 周星池的续集承诺；刘艺菲返京",
+      "word_count": 4430,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 952,
+      "chapter_title": "第952章 份额；开机时间；中 上影的IPO",
+      "word_count": 6829,
+      "paragraph_count": 178,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 954,
+      "chapter_title": "第954章 西影；念头",
+      "word_count": 5473,
+      "paragraph_count": 138,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 955,
+      "chapter_title": "第955章 不长记性的喇大董事长！西影：光脚的不怕",
+      "word_count": 11448,
+      "paragraph_count": 302,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 957,
+      "chapter_title": "第957章 破纪录；半成",
+      "word_count": 3625,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 958,
+      "chapter_title": "第958章 辞呈；邀请",
+      "word_count": 10636,
+      "paragraph_count": 283,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 961,
+      "chapter_title": "第961章 《战狼2》预备；叶宁的电话",
+      "word_count": 3368,
+      "paragraph_count": 84,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 962,
+      "chapter_title": "第962章 见面，玩笑似的承诺",
+      "word_count": 8323,
+      "paragraph_count": 212,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 964,
+      "chapter_title": "第964章 乐视影业放弃上市？预算165亿美金",
+      "word_count": 3446,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 965,
+      "chapter_title": "第965章 苦恨年年压金线，为他人作嫁衣裳",
+      "word_count": 18014,
+      "paragraph_count": 465,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 969,
+      "chapter_title": "第969章 不死不休，份额，通知西影",
+      "word_count": 6841,
+      "paragraph_count": 163,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 970,
+      "chapter_title": "第970章 取代中影？10，由西影去提交报备",
+      "word_count": 3614,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 971,
+      "chapter_title": "第971章 好运的舒倡；光着脚的西影，秘书的警觉",
+      "word_count": 2764,
+      "paragraph_count": 72,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 972,
+      "chapter_title": "第972章 《阿修罗》；喇董是《环太平洋2》！西影，值得",
+      "word_count": 20594,
+      "paragraph_count": 545,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 975,
+      "chapter_title": "第975章 献礼片粉丝电影？抓紧港圈",
+      "word_count": 5079,
+      "paragraph_count": 118,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 976,
+      "chapter_title": "第976章 《纯洁心灵》；陈虹来电",
+      "word_count": 10356,
+      "paragraph_count": 255,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 978,
+      "chapter_title": "第978章 能不能接，适不适合",
+      "word_count": 11033,
+      "paragraph_count": 275,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 980,
+      "chapter_title": "第980章 导演人选，就是玩儿",
+      "word_count": 6545,
+      "paragraph_count": 163,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 981,
+      "chapter_title": "第981章 床上的承诺；乐视影业股东大会",
+      "word_count": 5298,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 982,
+      "chapter_title": "第982章 盛唐以丰腴为美；人为干预排片",
+      "word_count": 3341,
+      "paragraph_count": 82,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 983,
+      "chapter_title": "第983章 金盾约谈；陈恺歌的“歪理”；张一谋的决绝",
+      "word_count": 3409,
+      "paragraph_count": 82,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 984,
+      "chapter_title": "第984章 热巴提名？乐视公告",
+      "word_count": 3435,
+      "paragraph_count": 79,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 985,
+      "chapter_title": "第985章 两个选择；去后宫走走；安心养胎",
+      "word_count": 14849,
+      "paragraph_count": 370,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 989,
+      "chapter_title": "第989章 不提醒！《环太平洋2》公开",
+      "word_count": 7851,
+      "paragraph_count": 192,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 991,
+      "chapter_title": "第991章 韩佳女：希望海政那边眼瞎",
+      "word_count": 4464,
+      "paragraph_count": 112,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 992,
+      "chapter_title": "第992章 王常田的叹息；电影",
+      "word_count": 3546,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 993,
+      "chapter_title": "第993章 答辩，陈虹到访光线",
+      "word_count": 2309,
+      "paragraph_count": 61,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 994,
+      "chapter_title": "第994章 讨个人情；公示过审",
+      "word_count": 5518,
+      "paragraph_count": 146,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 995,
+      "chapter_title": "第995章 《婚姻故事》，演员人选",
+      "word_count": 5675,
+      "paragraph_count": 161,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 996,
+      "chapter_title": "第996章 被娄晔抢了先；第一次合作",
+      "word_count": 11064,
+      "paragraph_count": 268,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 998,
+      "chapter_title": "第998章月，备案",
+      "word_count": 17435,
+      "paragraph_count": 444,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1001,
+      "chapter_title": "第1001章亿，于中戏低调开机",
+      "word_count": 6737,
+      "paragraph_count": 168,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1002,
+      "chapter_title": "第1002章 举贤不避亲",
+      "word_count": 3370,
+      "paragraph_count": 84,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1003,
+      "chapter_title": "第1003章 刷奖？一拍即合",
+      "word_count": 14400,
+      "paragraph_count": 361,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1006,
+      "chapter_title": "第1006章月结束，三分之一",
+      "word_count": 26978,
+      "paragraph_count": 667,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1011,
+      "chapter_title": "第1011章 任中伦的套路，姜闻也为资金发愁",
+      "word_count": 3476,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1012,
+      "chapter_title": "第1012章 提前拿下《的名义》，五百亿",
+      "word_count": 3170,
+      "paragraph_count": 70,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1013,
+      "chapter_title": "第1013章 陈叶问恺歌；负面旋涡： 睡粉 选妃",
+      "word_count": 11389,
+      "paragraph_count": 275,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1015,
+      "chapter_title": "第1015章 国际章准备下凡；乐视离席",
+      "word_count": 3386,
+      "paragraph_count": 81,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1016,
+      "chapter_title": "第1016章 成龍为吴姓艺人张目；学院改革",
+      "word_count": 6666,
+      "paragraph_count": 163,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1018,
+      "chapter_title": "第1018章 提前获悉",
+      "word_count": 2187,
+      "paragraph_count": 53,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1019,
+      "chapter_title": "第1019章 同时官宣贺岁档，乐视暴雷",
+      "word_count": 14883,
+      "paragraph_count": 394,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1021,
+      "chapter_title": "第1021章 非必要，不合作；全网抵制",
+      "word_count": 19370,
+      "paragraph_count": 492,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1025,
+      "chapter_title": "第1025章 “冷处理”和“屏蔽”； 限韩",
+      "word_count": 17887,
+      "paragraph_count": 452,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1028,
+      "chapter_title": "第1028章 再怼；股东大会",
+      "word_count": 3547,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1029,
+      "chapter_title": "第1029章 缩头乌龟；代价",
+      "word_count": 4403,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1029,
+      "chapter_title": "第1029章 捡破烂养你",
+      "word_count": 11173,
+      "paragraph_count": 280,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1032,
+      "chapter_title": "第1032章 资金链断裂，张一谋的质问",
+      "word_count": 11089,
+      "paragraph_count": 264,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1035,
+      "chapter_title": "第1035章 资金链断裂，张一谋的质问",
+      "word_count": 3620,
+      "paragraph_count": 80,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1036,
+      "chapter_title": "第1036章 资金链断裂，张一谋的质问",
+      "word_count": 3620,
+      "paragraph_count": 80,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1037,
+      "chapter_title": "第1037章 杀青；针对；《流浪地球》立项时间",
+      "word_count": 6449,
+      "paragraph_count": 147,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1038,
+      "chapter_title": "第1038章 一轮，倒打一耙",
+      "word_count": 6762,
+      "paragraph_count": 145,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1039,
+      "chapter_title": "第1039章 本心；字字带刺的回应，撕破脸；8月建军",
+      "word_count": 6674,
+      "paragraph_count": 135,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1040,
+      "chapter_title": "第1040章 掀桌子，香火情就到这儿了",
+      "word_count": 5073,
+      "paragraph_count": 110,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1041,
+      "chapter_title": "第1041章 奥斯卡，冯晓刚在行动",
+      "word_count": 12914,
+      "paragraph_count": 280,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1044,
+      "chapter_title": "第1044章 大改；《芳华》；把柄",
+      "word_count": 4413,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1045,
+      "chapter_title": "第1045章 由红星坞来投",
+      "word_count": 3375,
+      "paragraph_count": 84,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1046,
+      "chapter_title": "第1046章 一轮价格，确定时间",
+      "word_count": 3306,
+      "paragraph_count": 71,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1047,
+      "chapter_title": "第1047章 业内市值第二，原始股东会议",
+      "word_count": 7580,
+      "paragraph_count": 180,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1048,
+      "chapter_title": "第1048章 一通电话",
+      "word_count": 11254,
+      "paragraph_count": 270,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1050,
+      "chapter_title": "第1050章 资本时代，彻底到来；止步提名",
+      "word_count": 4252,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1051,
+      "chapter_title": "第1051章 不要命的成龍；客串以及礼物",
+      "word_count": 6570,
+      "paragraph_count": 158,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1052,
+      "chapter_title": "第1052章 提名名单，韩佳女的剧本",
+      "word_count": 6973,
+      "paragraph_count": 165,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1053,
+      "chapter_title": "第1053章 药神；海政那边的",
+      "word_count": 4241,
+      "paragraph_count": 104,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1054,
+      "chapter_title": "第1054章 《红海行动》拒绝和“建议”",
+      "word_count": 14740,
+      "paragraph_count": 333,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1056,
+      "chapter_title": "第1056章 导演椅上栓条狗；字节系",
+      "word_count": 3548,
+      "paragraph_count": 77,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1057,
+      "chapter_title": "第1057章 第一个内定的演员",
+      "word_count": 2759,
+      "paragraph_count": 68,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1058,
+      "chapter_title": "第1058章 任中伦的话；份额划分",
+      "word_count": 5252,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1059,
+      "chapter_title": "第1059章 第一个内定的演员",
+      "word_count": 2759,
+      "paragraph_count": 68,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1060,
+      "chapter_title": "第1060章 任中伦的话；份额划分",
+      "word_count": 5399,
+      "paragraph_count": 123,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1061,
+      "chapter_title": "第1061章 争取年底前；奥斯卡",
+      "word_count": 3392,
+      "paragraph_count": 74,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1062,
+      "chapter_title": "第1062章 抵押贷款， 有备无患",
+      "word_count": 9870,
+      "paragraph_count": 225,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1064,
+      "chapter_title": "第1064章 汤姆的未雨绸缪，过河卒",
+      "word_count": 4218,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1065,
+      "chapter_title": "第1065章 小韩的意向；酷似吴某某",
+      "word_count": 4264,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1066,
+      "chapter_title": "第1066章 定角开始；喇董的试探",
+      "word_count": 4597,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1067,
+      "chapter_title": "第1067章 演员推荐：顶流",
+      "word_count": 3576,
+      "paragraph_count": 91,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1068,
+      "chapter_title": "第1068章 新的领导，审核开始；5天确定5人",
+      "word_count": 2094,
+      "paragraph_count": 49,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1069,
+      "chapter_title": "第1069章 送他们俩去上班；给姜大导演的建议",
+      "word_count": 4457,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1070,
+      "chapter_title": "第1070章 即将缺钙的前兆；不要半场开香槟",
+      "word_count": 4306,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1071,
+      "chapter_title": "第1071章 翟博士",
+      "word_count": 8876,
+      "paragraph_count": 206,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1073,
+      "chapter_title": "第1073章 最“贵重”的一座奖杯！5项大奖",
+      "word_count": 6776,
+      "paragraph_count": 161,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1075,
+      "chapter_title": "第1075章 扬眉吐气！燕子，没有你",
+      "word_count": 9910,
+      "paragraph_count": 221,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1077,
+      "chapter_title": "第1077章 《手机2》；同时立项 同时选角",
+      "word_count": 4359,
+      "paragraph_count": 95,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1078,
+      "chapter_title": "第1078章 扫地出门；土豆IPO时间",
+      "word_count": 4221,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1079,
+      "chapter_title": "第1079章 林师哥，我穷啊！忙上加忙再加忙",
+      "word_count": 4261,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1080,
+      "chapter_title": "第1080章 官方脚本，明年3月",
+      "word_count": 31360,
+      "paragraph_count": 671,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1087,
+      "chapter_title": "第1087章 再怂一次；杀青，航班，发布会",
+      "word_count": 8492,
+      "paragraph_count": 178,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1096,
+      "chapter_title": "第1096章 首映礼被抢风头；公开立项，开始选角",
+      "word_count": 4566,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1097,
+      "chapter_title": "第1097章 檄文，对子骂父",
+      "word_count": 15604,
+      "paragraph_count": 330,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1101,
+      "chapter_title": "第1101章 张一谋的心态变化；试镜首日",
+      "word_count": 8409,
+      "paragraph_count": 187,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1103,
+      "chapter_title": "第1103章 试用神油的任董；林楠，我想看你跳钢管舞嘛",
+      "word_count": 4472,
+      "paragraph_count": 105,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1104,
+      "chapter_title": "第1104章 刘姑娘的客串要求；《湄公河行动》首映礼",
+      "word_count": 12676,
+      "paragraph_count": 288,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1107,
+      "chapter_title": "第1107章 贺岁档开始，排片率56；字节系的过问权",
+      "word_count": 8597,
+      "paragraph_count": 184,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1109,
+      "chapter_title": "第1109章 接盘字节系股份",
+      "word_count": 13655,
+      "paragraph_count": 309,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1112,
+      "chapter_title": "第1112章 提前开机，20号签约",
+      "word_count": 12592,
+      "paragraph_count": 281,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1115,
+      "chapter_title": "第1115章 对小韩的安排；一人得道鸡犬升天",
+      "word_count": 4239,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1116,
+      "chapter_title": "第1116章 屈服于资本，加入资本；字节系与土豆",
+      "word_count": 4425,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1117,
+      "chapter_title": "第1117章 《长城》的骂声；别墅有点儿小了",
+      "word_count": 8530,
+      "paragraph_count": 191,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1119,
+      "chapter_title": "第1119章 奥斯卡悬了；任董的自觉 ；肆无忌惮的华亿",
+      "word_count": 4215,
+      "paragraph_count": 93,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1120,
+      "chapter_title": "第1120章 公映；哗然",
+      "word_count": 9537,
+      "paragraph_count": 209,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1122,
+      "chapter_title": "第1122章 已至140亿；股份将被公示",
+      "word_count": 21557,
+      "paragraph_count": 489,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1127,
+      "chapter_title": "第1127章 认真考虑；公主系列",
+      "word_count": 4195,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1128,
+      "chapter_title": "第1128章 《唐人街探案2》；年后的饭局",
+      "word_count": 4245,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1131,
+      "chapter_title": "第1131章 再次大局为重？收割即将完毕",
+      "word_count": 4300,
+      "paragraph_count": 101,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1132,
+      "chapter_title": "第1132章 《美人鱼2》；私货",
+      "word_count": 4189,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1133,
+      "chapter_title": "第1133章 刘怼怼；赴约",
+      "word_count": 4425,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1134,
+      "chapter_title": "第1134章 不去山海传媒；恐怖的刘茜茜",
+      "word_count": 4282,
+      "paragraph_count": 87,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1135,
+      "chapter_title": "第1135章 一两年内肯定碰壁；汤姆的重要消息",
+      "word_count": 4200,
+      "paragraph_count": 90,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1136,
+      "chapter_title": "第1136章 音乐喜剧电影；进组",
+      "word_count": 5333,
+      "paragraph_count": 125,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1137,
+      "chapter_title": "第1137章 林楠看不上；任董杀青",
+      "word_count": 4229,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1138,
+      "chapter_title": "第1138章 阿瑟请坐，举报",
+      "word_count": 8522,
+      "paragraph_count": 190,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1140,
+      "chapter_title": "第1140章 折戟北美；狠狠打赏他",
+      "word_count": 20894,
+      "paragraph_count": 457,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1145,
+      "chapter_title": "第1145章 “药神”！再返京；IPO",
+      "word_count": 8493,
+      "paragraph_count": 181,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1147,
+      "chapter_title": "第1147章 进一步对赌；上市时间",
+      "word_count": 4440,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1149,
+      "chapter_title": "第1149章 电影之外的考虑任务？ 杀青",
+      "word_count": 8462,
+      "paragraph_count": 188,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1151,
+      "chapter_title": "第1151章 复核稽查；4月进组准备",
+      "word_count": 4320,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1152,
+      "chapter_title": "第1152章 强制停牌退市；揶揄",
+      "word_count": 4221,
+      "paragraph_count": 84,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1153,
+      "chapter_title": "第1153章 景恬？胎死腹中",
+      "word_count": 11651,
+      "paragraph_count": 249,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1156,
+      "chapter_title": "第1156章 圈内的喧嚣；开机",
+      "word_count": 17174,
+      "paragraph_count": 376,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1160,
+      "chapter_title": "第1160章 《繁花》？网暴",
+      "word_count": 8682,
+      "paragraph_count": 181,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1162,
+      "chapter_title": "第1162章 封杀？过半",
+      "word_count": 12910,
+      "paragraph_count": 283,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1165,
+      "chapter_title": "第1165章 老实人活该吃亏！留角色",
+      "word_count": 8520,
+      "paragraph_count": 170,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1167,
+      "chapter_title": "第1167章 成稿；立项",
+      "word_count": 12786,
+      "paragraph_count": 265,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1170,
+      "chapter_title": "第1170章 继续打回；喊话",
+      "word_count": 8438,
+      "paragraph_count": 175,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1172,
+      "chapter_title": "第1172章 立项，立项",
+      "word_count": 4252,
+      "paragraph_count": 90,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1173,
+      "chapter_title": "第1173章 约见",
+      "word_count": 21961,
+      "paragraph_count": 442,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1178,
+      "chapter_title": "第1178章 《战狼2》的运气，扶持政策",
+      "word_count": 11255,
+      "paragraph_count": 232,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1181,
+      "chapter_title": "第1181章 林楠的执拗；希望喇董如愿以偿",
+      "word_count": 3365,
+      "paragraph_count": 70,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1182,
+      "chapter_title": "第1182章 一步到位；再拒",
+      "word_count": 6910,
+      "paragraph_count": 146,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1184,
+      "chapter_title": "第1184章 募资金额，最新市值",
+      "word_count": 17125,
+      "paragraph_count": 375,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1189,
+      "chapter_title": "第1189章 半真半假的院线计划；“痛并快乐”的体验",
+      "word_count": 7687,
+      "paragraph_count": 159,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1191,
+      "chapter_title": "第1191章 不超过半个小目标；首映礼",
+      "word_count": 24056,
+      "paragraph_count": 522,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1198,
+      "chapter_title": "第1198章 首日崩盘；再撑两年半！提前定档",
+      "word_count": 5061,
+      "paragraph_count": 109,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1199,
+      "chapter_title": "第1199章 老王的忠告；准备",
+      "word_count": 6828,
+      "paragraph_count": 143,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1201,
+      "chapter_title": "第1201章 外面的狗粮；家里的犬吠",
+      "word_count": 17460,
+      "paragraph_count": 366,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1206,
+      "chapter_title": "第1206章 座谈会：啊对对对；复出",
+      "word_count": 6841,
+      "paragraph_count": 142,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1208,
+      "chapter_title": "第1208章 只有林楠能这么玩儿！抵达",
+      "word_count": 3193,
+      "paragraph_count": 68,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1209,
+      "chapter_title": "第1209章 入会，进圈子；公映",
+      "word_count": 11150,
+      "paragraph_count": 247,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1212,
+      "chapter_title": "第1212章 预祝圆满 如意；人性",
+      "word_count": 3363,
+      "paragraph_count": 73,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1213,
+      "chapter_title": "第1213章亿；颁奖嘉宾",
+      "word_count": 3160,
+      "paragraph_count": 69,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1214,
+      "chapter_title": "第1214章 颁奖：圆满，如意",
+      "word_count": 6681,
+      "paragraph_count": 155,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1215,
+      "chapter_title": "第1215章 评审团主席的权力；价格",
+      "word_count": 6315,
+      "paragraph_count": 131,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1216,
+      "chapter_title": "第1216章 内定周公子；约见",
+      "word_count": 26632,
+      "paragraph_count": 560,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1221,
+      "chapter_title": "第1221章 协会地位暴涨；赔",
+      "word_count": 14192,
+      "paragraph_count": 303,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1225,
+      "chapter_title": "第1225章 林楠的意图；救命稻草",
+      "word_count": 2346,
+      "paragraph_count": 53,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1226,
+      "chapter_title": "第1226章 撤档的笑话；65亿市值的对赌",
+      "word_count": 3397,
+      "paragraph_count": 74,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1227,
+      "chapter_title": "第1227章 两档综艺",
+      "word_count": 21904,
+      "paragraph_count": 472,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1231,
+      "chapter_title": "第1231章 鲜花着锦，烈火烹油；立项，中戏行",
+      "word_count": 21924,
+      "paragraph_count": 458,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1236,
+      "chapter_title": "第1236章 创作理念不合：植入",
+      "word_count": 16626,
+      "paragraph_count": 353,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1240,
+      "chapter_title": "第1240章 吐干净；又是一年终",
+      "word_count": 4615,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1241,
+      "chapter_title": "第1241章 不熟，签约，完整的定角名单",
+      "word_count": 6446,
+      "paragraph_count": 138,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1242,
+      "chapter_title": "第1242章 诛兄弟单位的心；要吃独食",
+      "word_count": 10591,
+      "paragraph_count": 227,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1244,
+      "chapter_title": "第1244章 考官推荐；广告营收",
+      "word_count": 6812,
+      "paragraph_count": 141,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1246,
+      "chapter_title": "第1246章 跑了？软封",
+      "word_count": 3330,
+      "paragraph_count": 68,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1247,
+      "chapter_title": "第1247章 分行李，回高老庄！616亿",
+      "word_count": 16470,
+      "paragraph_count": 325,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1250,
+      "chapter_title": "第1250章 副导演；破普A",
+      "word_count": 4257,
+      "paragraph_count": 90,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1251,
+      "chapter_title": "第1251章 口吻；超级进化",
+      "word_count": 3379,
+      "paragraph_count": 74,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1252,
+      "chapter_title": "第1252章 最佳去处；偶像练习生",
+      "word_count": 18873,
+      "paragraph_count": 379,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1257,
+      "chapter_title": "第1257章 合作备忘协议，打水漂",
+      "word_count": 2395,
+      "paragraph_count": 49,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1258,
+      "chapter_title": "第1258章 排片让道；第六位",
+      "word_count": 34105,
+      "paragraph_count": 695,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1265,
+      "chapter_title": "第1265章 《封神》名单；“借”导演",
+      "word_count": 5261,
+      "paragraph_count": 103,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1266,
+      "chapter_title": "第1266章 陈大导演的主旋律之路；地沟油",
+      "word_count": 6495,
+      "paragraph_count": 139,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1267,
+      "chapter_title": "第1267章 缘由；后半夜的热闹",
+      "word_count": 4632,
+      "paragraph_count": 107,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1268,
+      "chapter_title": "第1268章 约谈；禁令；无妄之灾",
+      "word_count": 5995,
+      "paragraph_count": 128,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1270,
+      "chapter_title": "第1270章 文件，处罚，被宰",
+      "word_count": 5268,
+      "paragraph_count": 117,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1271,
+      "chapter_title": "第1271章 留条后路？练习时长两年半",
+      "word_count": 3420,
+      "paragraph_count": 81,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1272,
+      "chapter_title": "第1272章 掘根；邀请",
+      "word_count": 2320,
+      "paragraph_count": 48,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1273,
+      "chapter_title": "第1273章 拒绝；30份大纲",
+      "word_count": 3598,
+      "paragraph_count": 77,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1274,
+      "chapter_title": "第1274章 谋女郎的背调；二月",
+      "word_count": 2950,
+      "paragraph_count": 62,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1275,
+      "chapter_title": "第1275章 剧本；抢跑",
+      "word_count": 4221,
+      "paragraph_count": 88,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1276,
+      "chapter_title": "第1276章 陌生且功利化的张大导；年会",
+      "word_count": 15270,
+      "paragraph_count": 340,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1280,
+      "chapter_title": "第1280章 造娃计划；公映",
+      "word_count": 8642,
+      "paragraph_count": 179,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1282,
+      "chapter_title": "第1282章 返程；《美人鱼2》的野望",
+      "word_count": 8668,
+      "paragraph_count": 190,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1284,
+      "chapter_title": "第1284章 公平！延期",
+      "word_count": 8865,
+      "paragraph_count": 200,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1286,
+      "chapter_title": "第1286章 《白蛇缘起》；勉励和激励",
+      "word_count": 4408,
+      "paragraph_count": 99,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1287,
+      "chapter_title": "第1287章 《新喜剧之王》；《美人鱼2》的“换角”原因",
+      "word_count": 33617,
+      "paragraph_count": 715,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1296,
+      "chapter_title": "第1296章 开拔；40亿",
+      "word_count": 4258,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1297,
+      "chapter_title": "第1297章 下映，立项，试镜",
+      "word_count": 8470,
+      "paragraph_count": 180,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1299,
+      "chapter_title": "第1299章 大会；内推演员",
+      "word_count": 13467,
+      "paragraph_count": 308,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1302,
+      "chapter_title": "第1302章 等结果；误伤",
+      "word_count": 3202,
+      "paragraph_count": 70,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1303,
+      "chapter_title": "第1303章 恰到好处；《手机2》的植入广告",
+      "word_count": 12922,
+      "paragraph_count": 288,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1306,
+      "chapter_title": "第1306章 袁区长的镜头；《手机2》官宣立项",
+      "word_count": 13726,
+      "paragraph_count": 309,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1309,
+      "chapter_title": "第1309章 风声鹤唳，草木皆兵",
+      "word_count": 4425,
+      "paragraph_count": 97,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1310,
+      "chapter_title": "第1310章 寒冬将至；跌",
+      "word_count": 8451,
+      "paragraph_count": 185,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1312,
+      "chapter_title": "第1312章 后路；《俄囧》；魔都",
+      "word_count": 4239,
+      "paragraph_count": 98,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1313,
+      "chapter_title": "第1313章 见一面；预定男一 男二",
+      "word_count": 4184,
+      "paragraph_count": 92,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1314,
+      "chapter_title": "第1314章 眼见他楼塌了",
+      "word_count": 4428,
+      "paragraph_count": 102,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1315,
+      "chapter_title": "第1315章 开幕，混淆视听的正统献礼片",
+      "word_count": 3188,
+      "paragraph_count": 63,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1316,
+      "chapter_title": "第1316章 电影之夜上的一幕；抱歉",
+      "word_count": 23820,
+      "paragraph_count": 512,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1322,
+      "chapter_title": "第1322章 父慈女孝；结果",
+      "word_count": 3387,
+      "paragraph_count": 76,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1323,
+      "chapter_title": "第1323章 第三座 ；意图",
+      "word_count": 3386,
+      "paragraph_count": 72,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1324,
+      "chapter_title": "第1324章 没有票房预期；金马",
+      "word_count": 5231,
+      "paragraph_count": 116,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1325,
+      "chapter_title": "第1325章 对决于金马；圈内的大量抛售",
+      "word_count": 10916,
+      "paragraph_count": 238,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1328,
+      "chapter_title": "第1328章 追一追《红海行动》？疯狂",
+      "word_count": 11428,
+      "paragraph_count": 250,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1331,
+      "chapter_title": "第1331章 给面子；一部半；低调息影",
+      "word_count": 8624,
+      "paragraph_count": 187,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1333,
+      "chapter_title": "第1333章 晦气；定角，人情交易",
+      "word_count": 9907,
+      "paragraph_count": 208,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1335,
+      "chapter_title": "第1335章 合作告一段落；昔日的嫡系",
+      "word_count": 5285,
+      "paragraph_count": 114,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1336,
+      "chapter_title": "第1336章 《囧妈》；开机；反派",
+      "word_count": 8866,
+      "paragraph_count": 194,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1338,
+      "chapter_title": "第1338章 毕业的花木兰；暂时息影",
+      "word_count": 2136,
+      "paragraph_count": 46,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1339,
+      "chapter_title": "第1339章 公映；溢价；威尼斯官宣",
+      "word_count": 5754,
+      "paragraph_count": 130,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1340,
+      "chapter_title": "第1340章 金狮很难；40亿；又一入围名单",
+      "word_count": 5447,
+      "paragraph_count": 126,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1341,
+      "chapter_title": "第1341章 混国外；风声",
+      "word_count": 3368,
+      "paragraph_count": 73,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1342,
+      "chapter_title": "第1342章月，操作",
+      "word_count": 11890,
+      "paragraph_count": 251,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1345,
+      "chapter_title": "第1345章 提名；威尼斯撕奖",
+      "word_count": 16793,
+      "paragraph_count": 363,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1349,
+      "chapter_title": "第1349章 《上海堡垒》的威尼斯计划；活该",
+      "word_count": 4225,
+      "paragraph_count": 89,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1350,
+      "chapter_title": "第1350章 优先保下最佳导演；立项",
+      "word_count": 12007,
+      "paragraph_count": 257,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1353,
+      "chapter_title": "第1353章 试镜；颁奖",
+      "word_count": 13071,
+      "paragraph_count": 297,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1356,
+      "chapter_title": "第1356章 官宣；主旋律；份额",
+      "word_count": 4202,
+      "paragraph_count": 94,
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chapter_index": 1357,
+      "chapter_title": "第1357章 禁忌题材，敏感题材，牵连",
+      "word_count": 10000,
+      "paragraph_count": 215,
+      "start_line": 0,
+      "end_line": 0
+    }
+  ]
+}

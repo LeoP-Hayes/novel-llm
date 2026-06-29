@@ -48,13 +48,17 @@ class BookMeta:
 # ============================================================
 
 # 章节标题正则模式（覆盖主流网文格式）
+# 注意: 为避免误匹配（如 "1.5亿票房" 被认作章节），需满足:
+#   1. 匹配任一正则模式
+#   2. 包含至少 2 个中文字符（排除纯数字/英文行）
+#   3. 行长度 ≤ 40 字符（章节标题不会太长）
 CHAPTER_PATTERNS = [
-    re.compile(r'^[第序][\d一二三四五六七八九十百千万]+[章回节卷集].*'),   # 第X章 / 序章
+    re.compile(r'^[第序][\d一二三四五六七八九十百千万]+[章回卷].*'),   # 第X章/回/卷（不含"集""节"，避免"第一集/第一节课"误匹配）
     re.compile(r'^[Cc]hapter\s*\d+'),                              # Chapter 1
     re.compile(r'^[卷部][\d一二三四五六七八九十百千万]+.*'),          # 第一卷
     re.compile(r'^第[\d一二三四五六七八九十百千万]+[章回].*'),        # 第1章
-    re.compile(r'^\d+[、，.\s]+.*'),                               # 1、章节名
-    re.compile(r'^[（\(][\d一二三四五六七八九十百千万]+[）\)].*'),    # （一）
+    re.compile(r'^\d+[、]\s*.{2,}'),                               # 1、章节名（仅匹配中文顿号，排除 "1.5亿" 等）
+    re.compile(r'^[（\(][\d一二三四五六七八九十百千万]+[）\)]\s*.{2,}'),  # （一）章节名
 ]
 
 # 需要过滤的广告/水印模式
@@ -119,51 +123,73 @@ def is_chapter_title(line: str) -> bool:
     line = line.strip()
     if not line or len(line) > 40:
         return False
+
+    # 章节标题不以标点结尾（排除 "第一章的内容。" "第一章内容展开：" 等上下文叙述）
+    if line[-1] in '。！？，、：；…～~）)》」』':
+        return False
+
+    # 章节标记后紧跟标点不是真章节（排除 "第2章，写不出来了" 等作者吐槽）
+    if re.search(r'第[一二三四五六七八九十\d百千万]+[章回卷][，、。：；]', line):
+        return False
+
+    # 必须包含至少 2 个中文字符（排除 "1.5亿" 等数字开头的行）
+    chinese_count = sum(1 for c in line if '一' <= c <= '鿿')
+    if chinese_count < 2:
+        return False
+
     return any(pat.match(line) for pat in CHAPTER_PATTERNS)
 
 
 def extract_chapter_number(title: str) -> Optional[int]:
     """从章节标题中提取章节序号"""
-    # 尝试阿拉伯数字
-    m = re.search(r'(\d+)', title)
+    # 1. 先尝试中文数字（优先级更高，因为标题中的阿拉伯数字可能来自章节名本身）
+    m = re.search(r'第[\s]*([一二三四五六七八九十百千万零]+)[\s]*[章回卷]', title)
+    if m:
+        return _parse_chinese_number(m.group(1))
+
+    # 2. 再尝试紧跟 "第" 的阿拉伯数字（排除标题中其他位置的数字如 "十二连冠进度1/3"）
+    m = re.search(r'第[\s]*(\d+)[\s]*[章回卷]', title)
     if m:
         return int(m.group(1))
-    # 尝试中文数字（简单映射，仅支持常见章数）
-    cn_num_map = {
-        '一': 1, '二': 2, '三': 3, '四': 4, '五': 5,
-        '六': 6, '七': 7, '八': 8, '九': 9, '十': 10,
-        '百': 100, '千': 1000, '万': 10000,
-    }
-    # 简化处理：只提取第一个中文数字
+
+    # 3. 放宽匹配：分离的数字模式（如 "1、章节名"）
+    m = re.search(r'^[\s]*(\d+)[\s]*[、]', title)
+    if m:
+        return int(m.group(1))
+
+    # 4. 最后兜底：整个标题中的中文数字
     m = re.search(r'([一二三四五六七八九十百千万]+)', title)
     if m:
-        cn_str = m.group(1)
-        return _parse_chinese_number(cn_str)
+        return _parse_chinese_number(m.group(1))
+
     return None
 
 
 def _parse_chinese_number(s: str) -> int:
-    """解析中文数字字符串为整数（简化版，处理 1-9999）"""
+    """解析中文数字字符串为整数（支持 1-9999）"""
+    digit_map = {
+        '零': 0, '一': 1, '二': 2, '三': 3, '四': 4,
+        '五': 5, '六': 6, '七': 7, '八': 8, '九': 9,
+    }
+    unit_map = {'十': 10, '百': 100, '千': 1000, '万': 10000}
+
     result = 0
-    unit = 1
-    for i, char in enumerate(reversed(s)):
-        if char == '十':
-            unit = max(unit, 10)
-        elif char == '百':
-            unit = max(unit, 100)
-        elif char == '千':
-            unit = max(unit, 1000)
-        elif char == '万':
-            unit = max(unit, 10000)
-        else:
-            digit = {
-                '一': 1, '二': 2, '三': 3, '四': 4, '五': 5,
-                '六': 6, '七': 7, '八': 8, '九': 9, '零': 0
-            }.get(char, 0)
-            result += digit * unit
-    if result == 0 and s in ['十', '百', '千', '万']:
-        return unit
-    return result
+    current = 0
+
+    for char in s:
+        if char in digit_map:
+            current = digit_map[char]
+        elif char in unit_map:
+            unit = unit_map[char]
+            if current == 0:
+                current = 1        # "十" 单独出现 = 10, "百" = 100
+            current *= unit
+            if unit >= 10:          # 十/百/千/万 触发加法
+                result += current
+                current = 0
+
+    result += current               # 加上最后的个位数
+    return result if result > 0 else 1
 
 
 # ============================================================
