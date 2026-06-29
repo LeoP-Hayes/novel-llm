@@ -1,0 +1,71 @@
+# ============================================================
+# 模型配置
+# ============================================================
+
+# 主模型（DeepSeek V4 Flash）
+primary_model:
+  name: "deepseek-ai/DeepSeek-V4-Flash"
+  total_params: "284B"
+  active_params: "13B"
+  architecture: "MoE"
+  context_window: 1048576  # 1M tokens
+  license: "MIT"
+
+# 备选模型（硬件更友好）
+fallback_models:
+  - name: "Qwen/Qwen3-30B-A3B"
+    total_params: "30B"
+    active_params: "3B"
+    architecture: "MoE"
+    context_window: 131072
+    note: "首选备选，中文能力强，4×A5000 可全参数微调"
+
+  - name: "Qwen/Qwen3-14B"
+    total_params: "14B"
+    architecture: "Dense"
+    context_window: 131072
+    note: "快速原型验证用，单卡即可全参数微调"
+
+# 量化配置（针对 4×A5000 / 96GB 显存）
+quantization:
+  # 推理用
+  inference:
+    precision: "int2"           # int2 | int4 | fp8
+    model_size_gb: 75           # INT2 量化后约 75GB
+    max_context: 200000         # 推荐上下文长度
+
+  # QLoRA 微调用（极限配置）
+  training:
+    base_precision: "int2"      # 基座量化精度
+    lora_rank: 8                # LoRA 秩（极限场景 r=8）
+    lora_alpha: 16
+    lora_dropout: 0.05
+    target_modules:
+      - "q_proj"
+      - "v_proj"
+      - "k_proj"
+      - "o_proj"
+      - "gate_proj"            # MoE 门控层
+    batch_size: 1
+    gradient_accumulation: 16
+    max_seq_length: 4096       # 训练时短上下文
+    learning_rate: 2.0e-4
+    optimizer: "adamw_8bit"
+    gradient_checkpointing: true
+    cpu_offload: true
+
+# DeepSpeed 配置
+deepspeed:
+  stage: 3                     # ZeRO-3
+  offload_optimizer: true
+  offload_param: true
+  overlap_comm: true
+  reduce_bucket_size: 5e8
+
+# 推理引擎
+inference:
+  engine: "vllm"               # vllm | sglang | llama.cpp
+  tensor_parallel_size: 4       # 4×A5000
+  max_model_len: 200000
+  gpu_memory_utilization: 0.90
+  enable_prefix_caching: true

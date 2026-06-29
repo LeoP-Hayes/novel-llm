@@ -1,0 +1,77 @@
+# ============================================================
+# 约束规则定义
+# ============================================================
+
+# 章节字数约束
+word_count:
+  min: 2000
+  max: 3000
+  tolerance: 200          # 容差 ±200 字
+  action_below_min: "auto_extend"    # auto_extend | warn | skip
+  action_above_max: "truncate"       # truncate | warn | skip
+
+# 黄金三章约束
+golden_three:
+  chapter_1:
+    required_elements:
+      - "穿越/重生设定"
+      - "当前困境描述"
+      - "金手指激活"
+    weight: 1.0
+  chapter_2:
+    required_elements:
+      - "金手指初试"
+      - "小范围关注"
+      - "第一个冲突埋下"
+    weight: 1.0
+  chapter_3:
+    required_elements:
+      - "第一次冲突/打脸"
+      - "更大机遇降临"
+      - "悬念钩子"
+    weight: 1.0
+
+# 高潮节奏约束
+climax_rhythm:
+  mini_climax_every: 5    # 每 5 章小高潮
+  major_climax_every: 10  # 每 10 章大高潮
+  mini_climax_tolerance: 1  # 允许前后漂移 1 章
+  major_climax_tolerance: 2
+
+# 三线覆盖约束
+three_line_coverage:
+  min_career_score: 3     # 每章事业线最低分 (0-10)
+  min_romance_score: 1    # 感情线可偶有缺失
+  min_daily_score: 2      # 日常线最低分
+  per_chapter_check: true
+
+# 金手指一致性
+golden_finger_consistency:
+  check_enabled: true
+  forbidden_behaviors:
+    rebirth: ["预知与重生时间点不符的事件", "获得非重生时间线内的技术"]
+    system: ["无任务获得奖励", "系统功能超出初始设定"]
+    copycat: ["创作出非地球来源的作品", "记起不存在的细节"]
+    talent: ["能力超出天赋设定上限"]
+
+# 结尾钩子约束
+ending_hook:
+  check_last_n_sentences: 3
+  required_patterns:
+    - "疑问句结尾"
+    - "转折预告"
+    - "危机暗示"
+    - "新事件引入"
+  min_satisfied: 1        # 至少满足 1 种模式
+
+# 重复检测
+repetition:
+  ngram_size: 4           # 4-gram 检测
+  max_overlap_ratio: 0.3  # 与历史章节最大重叠率
+  semantic_check: true    # 启用 LLM 语义去重
+
+# 重试策略
+retry:
+  max_retries_per_chapter: 5
+  early_stop_threshold: 0.3  # 连续两次质量分改进 < 0.3 则提前终止
+  keep_best_version: true    # 保留重试过程中的最佳版本
