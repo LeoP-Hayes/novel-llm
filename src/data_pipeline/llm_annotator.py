@@ -137,7 +137,7 @@ primary_scene 选最主要的那个。
 - climax_intensity: 1-5
 
 ### 7. 结尾钩子
-判断最后 3 句是否制造了悬念/期待:
+判断最后 10 句是否制造了悬念/期待:
 - has_hook: true/false
 - hook_type: 疑问 | 转折 | 危机 | 预告
 
@@ -172,7 +172,7 @@ class LLMAnnotator:
         self,
         api_key: Optional[str] = None,
         base_url: str = "https://api.deepseek.com",
-        model: str = "deepseek-chat",  # DeepSeek V4 Pro
+        model: str = "deepseek-v4-pro",  # DeepSeek V4 Pro
         max_retries: int = 3,
         retry_delay: float = 2.0,
     ):
@@ -350,7 +350,7 @@ class LLMAnnotator:
 def annotate_all_books(
     clean_dir: Path,
     api_key: Optional[str] = None,
-    model: str = "deepseek-chat",
+    model: str = "deepseek-v4-pro",
     limit_chapters_per_book: Optional[int] = None,
 ) -> None:
     """
