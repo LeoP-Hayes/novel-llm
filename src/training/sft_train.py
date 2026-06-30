@@ -32,7 +32,7 @@ from transformers import (
     BitsAndBytesConfig,
 )
 from peft import LoraConfig, get_peft_model, TaskType, PeftModel
-from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
+from trl import SFTTrainer
 
 
 # ============================================================
@@ -143,7 +143,7 @@ def train(config: TrainConfig):
     print(f"🤖 加载模型: {config.model_name}")
     model_kwargs = {
         "trust_remote_code": True,
-        "torch_dtype": torch.bfloat16 if config.bf16 else torch.float16,
+        "dtype": torch.bfloat16 if config.bf16 else torch.float32,
         "attn_implementation": config.attn_implementation,
     }
 
@@ -180,7 +180,7 @@ def train(config: TrainConfig):
         gradient_accumulation_steps=config.gradient_accumulation_steps,
         learning_rate=config.learning_rate,
         lr_scheduler_type=config.lr_scheduler,
-        warmup_ratio=config.warmup_ratio,
+        warmup_steps=int(config.warmup_ratio * 100),  # warmup_ratio → warmup_steps
         num_train_epochs=config.num_epochs,
         optim=config.optimizer,
         bf16=config.bf16,
@@ -189,7 +189,7 @@ def train(config: TrainConfig):
         save_steps=config.save_steps,
         eval_steps=config.eval_steps,
         save_total_limit=config.save_total_limit,
-        evaluation_strategy="steps",
+        eval_strategy="steps",
         load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         greater_is_better=False,
@@ -205,15 +205,15 @@ def train(config: TrainConfig):
 
     # --- 6. 训练 ---
     print(f"🚀 开始训练...")
+    tokenizer.model_max_length = config.max_seq_length
+
     trainer = SFTTrainer(
         model=model,
         args=training_args,
         train_dataset=train_dataset,
         eval_dataset=val_dataset,
         peft_config=peft_config,
-        tokenizer=tokenizer,
-        max_seq_length=config.max_seq_length,
-        dataset_text_field=None,        # 使用 messages 格式
+        processing_class=tokenizer,
     )
 
     trainer.train()
