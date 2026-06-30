@@ -50,3 +50,5 @@ output/
 # OS
 .DS_Store
 Thumbs.db
+AutoDL远程微调全流程指南.md
+Dockerfile
