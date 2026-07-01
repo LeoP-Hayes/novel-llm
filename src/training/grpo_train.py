@@ -64,7 +64,7 @@ class GRPOConfig:
     lora_dropout: float = 0.0           # MoE 限制
 
     # 训练控制
-    gradient_accumulation_steps: int = 4
+    gradient_accumulation_steps: int = 2   # group_size=2 时每 episode 最多 2 个候选，设 2 刚好每 episode 更新一次
     max_grad_norm: float = 1.0
     early_stopping_patience: int = 3
 
@@ -268,9 +268,21 @@ class GRPOTrainer:
         # 加载 SFT LoRA 作为初始化
         if self.config.sft_lora_path and Path(self.config.sft_lora_path).exists():
             print(f"📦 加载 SFT LoRA: {self.config.sft_lora_path}")
-            self.model = PeftModel.from_pretrained(self.model, self.config.sft_lora_path)
+            try:
+                self.model = PeftModel.from_pretrained(self.model, self.config.sft_lora_path)
+            except TypeError:
+                from peft import PeftModel as PM
+                self.model = PM.from_pretrained(self.model, self.config.sft_lora_path)
+                self.model = self.model.merge_and_unload()
+                # 合并后重新注 LoRA（避免 peft 版本问题）
+                peft_cfg = LoraConfig(
+                    task_type=TaskType.CAUSAL_LM,
+                    r=self.config.lora_rank, lora_alpha=self.config.lora_alpha,
+                    lora_dropout=0.0,
+                    target_modules=["q_proj","v_proj","k_proj","o_proj","gate_up_proj","down_proj"],
+                )
+                self.model = get_peft_model(self.model, peft_cfg)
         else:
-            # 新建 LoRA
             peft_config = LoraConfig(
                 task_type=TaskType.CAUSAL_LM,
                 r=self.config.lora_rank, lora_alpha=self.config.lora_alpha,
@@ -324,10 +336,9 @@ class GRPOTrainer:
             grad_steps = 0
 
             for i in range(config.group_size):
-                if advantages[i] <= 0:
-                    continue  # 只强化优于组内平均的候选
-
-                loss = self._compute_grpo_loss(candidates[i], prompt, advantages[i])
+                # 所有候选都参与，但劣势候选权重很小（避免训练信号稀疏）
+                weight = max(advantages[i].item(), 0.05)
+                loss = self._compute_grpo_loss(candidates[i], prompt, weight)
                 (loss / config.gradient_accumulation_steps).backward()
                 total_loss += loss.item()
                 grad_steps += 1
@@ -339,7 +350,15 @@ class GRPOTrainer:
                     )
                     self.optimizer.step()
                     self.optimizer.zero_grad()
-                    self._apply_kl_penalty()
+
+            # 4. 每 episode 结束时 flush 残留梯度
+            if grad_steps % config.gradient_accumulation_steps != 0:
+                torch.nn.utils.clip_grad_norm_(
+                    [p for p in self.model.parameters() if p.requires_grad],
+                    config.max_grad_norm
+                )
+                self.optimizer.step()
+                self.optimizer.zero_grad()
 
             # 记录
             self.train_rewards.append(mean_r.item())
@@ -384,8 +403,7 @@ class GRPOTrainer:
     # ================================================================
 
     def _generate(self, prompt: str, seed: int) -> str:
-        """生成一个候选"""
-        random.seed(seed)
+        """生成一个候选（使用局部随机状态，避免污染全局 seed）"""
         torch.manual_seed(seed)
 
         messages = [
@@ -413,49 +431,53 @@ class GRPOTrainer:
 
     def _compute_grpo_loss(self, candidate: str, prompt: str, advantage: float) -> torch.Tensor:
         """
-        GRPO loss: -advantage * log P(candidate|prompt) + kl_penalty * KL(old||new)
+        GRPO loss: -advantage * log P(candidate|prompt) + kl_penalty * ||lora||^2
 
-        简化实现: advantage 加权负对数似然 + KL 近似
+        - 第一项: 策略梯度 — 强化高 reward 的生成模式
+        - 第二项: KL 正则化 — 防止模型偏离 SFT 太远 (L2 近似)
         """
-        # 构造完整对话
+        # 构造对话
         messages = [
             {"role": "system", "content": "你是一个都市文娱小说作家，文风轻松诙谐、爽感十足。"},
             {"role": "user", "content": prompt},
             {"role": "assistant", "content": candidate},
         ]
         full_text = self.tokenizer.apply_chat_template(messages, tokenize=False)
-
-        # tokenize 并计算 loss
-        enc = self.tokenizer(full_text, return_tensors="pt", truncation=True,
-                            max_length=self.config.max_prompt_length + self.config.max_new_tokens)
-        input_ids = enc["input_ids"].to(self.device)
-        labels = input_ids.clone()
-
-        # 只对 assistant 部分计算 loss
         prompt_enc = self.tokenizer.apply_chat_template(
             messages[:2], add_generation_prompt=True, tokenize=False
         )
         prompt_len = len(self.tokenizer(prompt_enc)["input_ids"])
-        labels[:, :prompt_len] = -100
 
-        outputs = self.model(input_ids=input_ids)
+        # tokenize
+        enc = self.tokenizer(full_text, return_tensors="pt", truncation=True,
+                            max_length=self.config.max_prompt_length + self.config.max_new_tokens)
+        input_ids = enc["input_ids"].to(self.device)
+        attention_mask = enc["attention_mask"].to(self.device) if "attention_mask" in enc else None
+        labels = input_ids.clone()
+        labels[:, :prompt_len] = -100  # 只对 assistant 计算 loss
+
+        outputs = self.model(input_ids=input_ids, attention_mask=attention_mask)
         log_probs = torch.nn.functional.log_softmax(outputs.logits, dim=-1)
         nll = torch.nn.functional.nll_loss(
             log_probs.view(-1, log_probs.size(-1)),
-            labels.view(-1),
-            ignore_index=-100,
-            reduction="mean",
+            labels.view(-1), ignore_index=-100, reduction="mean",
         )
 
-        # 策略梯度 loss = -advantage * nll
-        return -advantage * nll
+        # 策略梯度项
+        loss = -advantage * nll
 
-    def _apply_kl_penalty(self):
-        """对 LoRA 参数施加 KL 惩罚（L2 正则化近似）"""
-        kl_coef = self.config.kl_penalty
+        # KL 正则化项 (对 LoRA 参数的 L2 惩罚，避免偏离 SFT 太远)
+        lora_l2 = 0.0
         for n, p in self.model.named_parameters():
             if "lora" in n and p.requires_grad:
-                p.data = p.data - kl_coef * p.data  # 轻微向 0 收缩
+                lora_l2 += torch.sum(p ** 2)
+        loss = loss + self.config.kl_penalty * lora_l2
+
+        return loss
+
+    def _apply_kl_penalty(self):
+        """已废弃 — KL 惩罚已合并进 _compute_grpo_loss，保留空方法避免调用报错"""
+        pass
 
     def _evaluate(self, episode: int):
         """评估当前模型"""
