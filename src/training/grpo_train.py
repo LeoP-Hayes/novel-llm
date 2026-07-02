@@ -30,18 +30,8 @@ import wandb
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import LoraConfig, get_peft_model, TaskType, PeftModel
 
-
-# ============================================================
-# 配置
-# ============================================================
-
-# .env 加载
-_env = Path(__file__).resolve().parent.parent.parent / ".env"
-if _env.exists():
-    for line in _env.read_text().splitlines():
-        if "=" in line and not line.startswith("#"):
-            k, v = line.split("=", 1)
-            os.environ.setdefault(k.strip(), v.strip())
+from src.env import load_env
+load_env()
 
 
 @dataclass
@@ -138,19 +128,28 @@ class RewardModel:
         with ThreadPoolExecutor(max_workers=min(self._max_concurrent, len(candidates))) as ex:
             return list(ex.map(lambda c: self.score(c, context), candidates))
 
+    @staticmethod
+    def _compute_final_score(llm_scores: dict, word_count: int,
+                             diversity: float = 1.0, text: str = "") -> float:
+        """计算最终加权分数（同步/异步共用）"""
+        wc_score = (1.0 if 2000 <= word_count <= 3000
+                    else 0.5 if abs(word_count - 2500) < 1000
+                    else 0.0)
+        climax_score = 0.8 if RewardModel._has_climax(text) else 0.2
+        hook_score = 0.8 if RewardModel._has_hook(text) else 0.2
+        structure = wc_score * 0.4 + climax_score * 0.3 + hook_score * 0.3
+        return (
+            0.25 * llm_scores.get("文风匹配度", 3) / 10 +
+            0.25 * structure +
+            0.20 * llm_scores.get("连贯性", 3) / 10 +
+            0.20 * diversity +
+            0.10 * (llm_scores.get("爽感", 3) + llm_scores.get("专业感", 3)) / 20
+        )
+
     def score(self, chapter: str, context: dict = None) -> float:
         """5 维加权总分，与项目规划文档完全对齐"""
-        # 1. LLM 打分（文风 + 爽感 + 专业感 + 连贯性）
         llm = self._llm_score(chapter)
-
-        # 2. 结构分（字数 + 高潮检测 + 钩子检测）
         wc = len(chapter.replace("\n", "").replace(" ", ""))
-        wc_score = (1.0 if 2000 <= wc <= 3000 else 0.5 if abs(wc - 2500) < 1000 else 0.0)
-        climax_score = 0.8 if self._has_climax(chapter) else 0.2
-        hook_score = 0.8 if self._has_hook(chapter) else 0.2
-        structure = wc_score * 0.4 + climax_score * 0.3 + hook_score * 0.3
-
-        # 3. 重复度检查
         diversity = 1.0
         if context and context.get("previous"):
             prev_texts = [t for t in context["previous"] if t]
@@ -159,14 +158,7 @@ class RewardModel:
                     self._ngram_overlap(chapter[:500], ch[:500])
                     for ch in prev_texts
                 )
-
-        return (
-            0.25 * llm.get("文风匹配度", 3) / 10 +
-            0.25 * structure +
-            0.20 * llm.get("连贯性", 3) / 10 +
-            0.20 * diversity +
-            0.10 * (llm.get("爽感", 3) + llm.get("专业感", 3)) / 20  # 都市文娱专项=爽感+专业感
-        )
+        return self._compute_final_score(llm, wc, diversity, chapter)
 
     def _llm_score(self, text: str) -> dict:
         """调用 DeepSeek API 打分"""
@@ -225,13 +217,9 @@ class RewardModel:
             return {"文风匹配度": 5, "爽感": 5, "连贯性": 5, "专业感": 5}
 
     async def _score_async(self, chapter: str, context: dict, client: httpx.AsyncClient) -> float:
-        """异步版单条打分（与 score 逻辑一致）"""
+        """异步版单条打分（委托 _compute_final_score）"""
         llm = await self._llm_score_async(chapter, client)
         wc = len(chapter.replace("\n", "").replace(" ", ""))
-        wc_score = (1.0 if 2000 <= wc <= 3000 else 0.5 if abs(wc - 2500) < 1000 else 0.0)
-        climax_score = 0.8 if self._has_climax(chapter) else 0.2
-        hook_score = 0.8 if self._has_hook(chapter) else 0.2
-        structure = wc_score * 0.4 + climax_score * 0.3 + hook_score * 0.3
         diversity = 1.0
         if context and context.get("previous"):
             prev_texts = [t for t in context["previous"] if t]
@@ -239,13 +227,7 @@ class RewardModel:
                 diversity = 1.0 - max(
                     self._ngram_overlap(chapter[:500], ch[:500]) for ch in prev_texts
                 )
-        return (
-            0.25 * llm.get("文风匹配度", 3) / 10 +
-            0.25 * structure +
-            0.20 * llm.get("连贯性", 3) / 10 +
-            0.20 * diversity +
-            0.10 * (llm.get("爽感", 3) + llm.get("专业感", 3)) / 20
-        )
+        return self._compute_final_score(llm, wc, diversity, chapter)
 
     @staticmethod
     def _ngram_overlap(a: str, b: str) -> float:
@@ -379,14 +361,9 @@ class GRPOTrainer:
         )
         if self.config.sft_lora_path and Path(self.config.sft_lora_path).exists():
             print(f"📦 加载 SFT LoRA: {self.config.sft_lora_path}")
-            try:
-                self.model = PeftModel.from_pretrained(self.model, self.config.sft_lora_path)
-                # 将 SFT LoRA 合并进基座权重，保留 SFT 知识
-                self.model = self.model.merge_and_unload()
-            except TypeError:
-                from peft import PeftModel as PM
-                self.model = PM.from_pretrained(self.model, self.config.sft_lora_path)
-                self.model = self.model.merge_and_unload()
+            self.model = PeftModel.from_pretrained(self.model, self.config.sft_lora_path)
+            # 将 SFT LoRA 合并进基座权重，保留 SFT 知识
+            self.model = self.model.merge_and_unload()
             # 统一新建 GRPO LoRA (rank=32)，确保显存预算与规划一致
             print(f"🔧 新建 GRPO LoRA: rank={self.config.lora_rank}, alpha={self.config.lora_alpha}")
             self.model = get_peft_model(self.model, grpo_lora_config)
@@ -497,14 +474,15 @@ class GRPOTrainer:
             avg_r = sum(self.train_rewards[-50:]) / min(len(self.train_rewards), 50)
 
             # wandb 记录
-            wandb.log({
-                "episode": episode,
-                "reward_mean": mean_r.item(),
-                "reward_std": std_r.item(),
-                "reward_max": rewards_tensor.max().item(),
-                "loss": total_loss / max(grad_steps, 1),
-                "avg_reward_50": avg_r,
-            })
+            if self._use_wandb:
+                wandb.log({
+                    "episode": episode,
+                    "reward_mean": mean_r.item(),
+                    "reward_std": std_r.item(),
+                    "reward_max": rewards_tensor.max().item(),
+                    "loss": total_loss / max(grad_steps, 1),
+                    "avg_reward_50": avg_r,
+                })
 
             # 更新进度条
             pbar.set_postfix({                         # Use the pbar variable from the outer scope
@@ -546,7 +524,8 @@ class GRPOTrainer:
 
         # 最终保存
         self._save("final")
-        wandb.finish()
+        if self._use_wandb:
+            wandb.finish()
         print(f"\n✅ GRPO 训练完成! best_avg_reward={self.best_avg_reward:.4f}")
 
     # ================================================================
@@ -684,9 +663,8 @@ class GRPOTrainer:
             rewards.append(r)
         avg = sum(rewards) / len(rewards)
         # 用 tqdm.write 避免破坏进度条（_evaluate 在 tqdm 循环内调用）
-        from tqdm import tqdm as _tqdm
-        _tqdm.write(f"  📊 Eval@{episode}: avg_reward={avg:.3f} | "
-                    f"best_so_far={self.best_avg_reward:.3f}")
+        tqdm.write(f"  📊 Eval@{episode}: avg_reward={avg:.3f} | "
+                   f"best_so_far={self.best_avg_reward:.3f}")
         self.model.train()
 
     def _load_state(self):

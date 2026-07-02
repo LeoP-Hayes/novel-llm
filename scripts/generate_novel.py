@@ -11,10 +11,10 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 # ============================================================
 # 配置
 # ============================================================
-MODEL_FT   = "/root/autodl-tmp/novel-llm/models/novel-merged"    # 微调后
-MODEL_BASE = "/root/autodl-tmp/novel-llm/models/Qwen3-30B-A3B"    # 微调前
-OUTPUT_FT   = Path("/root/autodl-tmp/novel-llm/output/novel")       # 微调后输出
-OUTPUT_BASE = Path("/root/autodl-tmp/novel-llm/output/novel_before") # 微调前输出
+MODEL_FT   = "models/novel-merged"       # 微调后（LoRA合并模型）
+MODEL_BASE = "Qwen/Qwen3-30B-A3B"        # 微调前（基座模型）
+OUTPUT_FT   = Path("output/novel")        # 微调后输出
+OUTPUT_BASE = Path("output/novel_before") # 微调前输出
 
 SYSTEM_PROMPT = (
     "你是一个都市文娱小说作家，文风轻松诙谐、爽感十足。"
@@ -99,13 +99,17 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--chapters", type=int, default=10)
     parser.add_argument("--base", action="store_true", help="使用微调前基座模型生成")
+    parser.add_argument("--model", default=None, help="模型路径（覆盖默认值）")
+    parser.add_argument("--output", default=None, help="输出目录（覆盖默认值）")
     args = parser.parse_args()
 
     if args.base:
-        model_path, output_dir = MODEL_BASE, OUTPUT_BASE
+        model_path = args.model or MODEL_BASE
+        output_dir = Path(args.output) if args.output else OUTPUT_BASE
         label = "微调前（基座模型）"
     else:
-        model_path, output_dir = MODEL_FT, OUTPUT_FT
+        model_path = args.model or MODEL_FT
+        output_dir = Path(args.output) if args.output else OUTPUT_FT
         label = "微调后（LoRA）"
 
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -147,7 +151,7 @@ def main():
     print(f"\n{'='*60}")
     print(f"✅ 全文保存到 {full_path}")
     print(f"   总字数: {sum(len(c['text']) for c in chapters)}")
-    print(f"\n下载: scp -r -P 37576 root@connect.weste.seetacloud.com:{output_dir}/ ./output/")
+    print(f"\n输出目录: {output_dir}")
 
 
 if __name__ == "__main__":

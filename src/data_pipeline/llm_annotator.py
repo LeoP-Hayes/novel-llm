@@ -10,16 +10,8 @@ from pathlib import Path
 from typing import Optional
 import httpx
 
-
-def _load_env():
-    env_file = Path(__file__).resolve().parent.parent.parent / ".env"
-    if env_file.exists():
-        for line in env_file.read_text().splitlines():
-            line = line.strip()
-            if line and not line.startswith('#') and '=' in line:
-                k, _, v = line.partition('=')
-                os.environ.setdefault(k.strip(), v.strip())
-_load_env()
+from src.env import load_env
+load_env()
 
 
 @dataclass

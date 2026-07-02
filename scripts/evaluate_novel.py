@@ -16,22 +16,20 @@ from typing import Optional
 
 import httpx
 
+# 项目根目录
+_PROJECT_ROOT = Path(__file__).resolve().parent.parent
+import sys
+sys.path.insert(0, str(_PROJECT_ROOT))
+from src.env import load_env, get_api_key
+load_env()
+
 # ============================================================
 # 配置
 # ============================================================
 AFTER_DIR  = Path("output/novel_after")
 BEFORE_DIR = Path("output/novel_before")
 OUTPUT_FILE = Path("output/evaluation_report.json")
-
-# 从 .env 加载 API Key
-_env = Path(".env")
-if _env.exists():
-    for line in _env.read_text().splitlines():
-        if "=" in line and not line.startswith("#"):
-            k, v = line.split("=", 1)
-            os.environ.setdefault(k.strip(), v.strip())
-
-API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+API_KEY = get_api_key("DEEPSEEK_API_KEY")
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 

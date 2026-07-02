@@ -14,27 +14,22 @@
     outline = planner.plan(user_prompt="重生2008年，北电导演系学生...", chapters=50)
 """
 
-import json, os, re, random
-from dataclasses import dataclass, field, asdict
+import json, re, random
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional
 
 import httpx
+
+from src.env import load_env, get_api_key
+load_env()
 
 
 # ============================================================
 # 配置
 # ============================================================
 
-# 从 .env 加载
-_env = Path(__file__).resolve().parent.parent.parent / ".env"
-if _env.exists():
-    for line in _env.read_text().splitlines():
-        if "=" in line and not line.startswith("#"):
-            k, v = line.split("=", 1)
-            os.environ.setdefault(k.strip(), v.strip())
-
-DEEPSEEK_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DEEPSEEK_KEY = get_api_key("DEEPSEEK_API_KEY")
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 张力累积参数

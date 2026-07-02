@@ -213,9 +213,15 @@ def build_all_samples(books: list[dict], config: Optional[BuildConfig] = None) -
         if s:
             samples.append(s)
 
+    # 去重：基于 task_type + assistant 前200字符
     seen = set()
-    return [s for s in samples if not (s["task_type"] + s["assistant"][:200] in seen
-            or seen.add(s["task_type"] + s["assistant"][:200]))]
+    deduped = []
+    for s in samples:
+        fingerprint = s["task_type"] + s["assistant"][:200]
+        if fingerprint not in seen:
+            seen.add(fingerprint)
+            deduped.append(s)
+    return deduped
 
 
 def format_chatml(sample: dict) -> str:

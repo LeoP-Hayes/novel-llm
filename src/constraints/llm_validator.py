@@ -17,15 +17,10 @@ from typing import Optional
 
 import httpx
 
-# .env 加载
-_env = Path(__file__).resolve().parent.parent.parent / ".env"
-if _env.exists():
-    for line in _env.read_text().splitlines():
-        if "=" in line and not line.startswith("#"):
-            k, v = line.split("=", 1)
-            os.environ.setdefault(k.strip(), v.strip())
+from src.env import load_env, get_api_key
+load_env()
 
-DEEPSEEK_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DEEPSEEK_KEY = get_api_key("DEEPSEEK_API_KEY")
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
 
 
