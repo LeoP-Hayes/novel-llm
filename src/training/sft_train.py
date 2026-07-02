@@ -75,7 +75,7 @@ class TrainConfig:
     lora_alpha: int = 128
 
     # LoRA dropout：防止适配器过拟合，0.05 表示随机丢弃 5% 的神经元
-    lora_dropout: float = 0.05
+    lora_dropout: float = 0.0   # MoE 融合层(gate_up_proj)不支持 dropout，必须设为 0
 
     # LoRA 目标模块：在这些层的权重矩阵上添加低秩适配器
     # Qwen3 是 Transformer 架构，q_proj/k_proj/v_proj/o_proj 是注意力层
@@ -83,7 +83,7 @@ class TrainConfig:
     # gate_proj 是 MoE 的专家路由门控层 —— 首轮暂不加入，防止路由分布崩溃
     lora_target_modules: tuple = (
         "q_proj", "v_proj", "k_proj", "o_proj",    # 注意力层 4 个投影矩阵
-        "up_proj", "down_proj",                      # SwiGLU FFN 的 2 个投影矩阵
+        "gate_up_proj", "down_proj",                 # MoE FFN：gate_up_proj 是 gate+up 的融合层
     )
 
     # ========== 训练超参 ==========
@@ -450,6 +450,8 @@ def parse_args():
     p.add_argument("--output_dir", default="models/lora_adapters", help="输出目录")
     p.add_argument("--train_file", default="data/sft/train.jsonl", help="训练数据")
     p.add_argument("--val_file", default="data/sft/val.jsonl", help="验证数据")
+    p.add_argument("--local_rank", type=int, default=-1, help="DeepSpeed 自动注入，不要手动设置")  # DeepSpeed 兼容
+    p.add_argument("--attn_implementation", default="flash_attention_2", help="flash_attention_2/sdpa/eager")
     return p.parse_args()
 
 
@@ -467,6 +469,7 @@ if __name__ == "__main__":
         output_dir=args.output_dir,
         train_file=args.train_file,
         val_file=args.val_file,
+        attn_implementation=args.attn_implementation,
     )
 
     train(config)
