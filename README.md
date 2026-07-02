@@ -2,7 +2,7 @@
 
 > 让大模型写出"那味"的都市文娱爽文 🚀
 
-一个完整的 LLM 微调项目——从零开始，把 Qwen3-30B 基座模型调教成都市文娱小说写手，带黄金三章、单元化叙事、爽感节奏，还能用 GRPO 让它越写越"爽"。
+从零开始，把 Qwen3-30B 基座模型调教成都市文娱小说写手，涵盖数据管线、SFT 微调、约束生成，以及 GRPO 强化学习训练脚本。
 
 ---
 
@@ -31,8 +31,7 @@
 📦 SFT 样本 (6,000条)
  ⬇ sft_trainer      ← LoRA rank=64, RTX 6000D 80GB
 📦 微调模型 (loss↓67%, 对话 0.1%→32.7%)
- ⬇ grpo_trainer     ← 组内对比 · API奖励 · 批量生成
-📦 GRPO 对齐模型 (爽感↑40%)
+ ⬇ grpo_trainer     ← 组内对比 · API奖励 · 批量生成 (训练脚本已实现)
  ⬇ chapter_generator ← 大纲规划 · 张力累积 · 约束校验
 📦 50章完整都市文娱小说 🎉
 ```
@@ -98,7 +97,7 @@ python src/training/sft_train.py \
   --model Qwen/Qwen3-30B-A3B --epochs 3 \
   --attn_implementation sdpa --output_dir output/lora
 
-# GRPO 强化学习 (~6-8h, ~¥40)
+# GRPO 强化学习
 python src/training/grpo_train.py \
   --model models/novel-merged --episodes 500 \
   --group_size 4 --output_dir output/grpo --resume
@@ -130,22 +129,13 @@ python scripts/generate_novel.py --chapters 10 --model models/novel-merged
 | 平均句长 | 28.2字 | **19.8字** | -30% 更口语化 |
 | 4-gram 重复率 | 19.2% | **16.1%** | -16% |
 
-### LLM 盲评 (DeepSeek V4 Flash 当裁判)
+### LLM 盲评
 
-| 维度 | 基座 | SFT | GRPO (预期) |
-|------|:---:|:---:|:---:|
-| 文风匹配度 | 5 | 6 | 7 |
-| **爽感** | 3 | **5** | **7** |
-| 连贯性 | 6 | 7 | 7 |
-
-### GRPO 训练指标
-
-| 指标 | 值 |
-|------|-----|
-| 初始 reward | 0.597 |
-| 目标提升 | +15~25% |
-| 训练硬件 | RTX 6000D 80GB |
-| 预算 | ~¥40-50 |
+| 维度 | 基座 | SFT |
+|------|:---:|:---:|
+| 文风匹配度 | 5 | 6 |
+| **爽感** | 3 | **5** |
+| 连贯性 | 6 | 7 |
 
 ---
 
@@ -168,10 +158,8 @@ python scripts/generate_novel.py --chapters 10 --model models/novel-merged
 |------|------|------|
 | LLM 标注 (2,104章) | 3.5h | ~$1.50 |
 | SFT 训练 | 3h | ~¥16 |
-| GRPO 训练 | 6-8h | ~¥40 |
-| **合计** | ~13h | **~¥60** |
-
-> 💡 约等于两顿外卖钱，换来一个完整的 LLM 微调作品集项目
+| GRPO 训练 (部分完成) | 4h | ~¥20 |
+| **合计** | ~10h | **~¥40** |
 
 ---
 
