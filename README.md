@@ -6,20 +6,20 @@
 
 ---
 
-## 🎯 一句话说清楚
+## 效果预览
 
 基座模型只会写"林风站在领奖台上，台下掌声雷动"——平淡如水。
 
 微调后它会写：
 
-> "最佳新人导演——林风！"
+> "最佳v新人导演——林风！"
 > 掌声炸了。王总的脸色瞬间铁青——三个月前他可是当着全公司的面说过"这破片子能有五十万票房我跟你姓"。
 
 **这才叫都市文娱** 😎
 
 ---
 
-## 🏗️ 架构
+## 数据流
 
 ```
 📦 原始 TXT
@@ -61,21 +61,21 @@ novel-llm/
 
 ## 🚀 快速开始
 
-### 1. 装依赖
+### 安装依赖
 
 ```bash
 pip install -r requirements.txt
 cp .env.example .env  # 填入 DEEPSEEK_API_KEY
 ```
 
-### 2. 扔两本 txt 进去
+### 准备语料
 
 ```bash
 mkdir -p data/raw
 cp 全职艺术家.txt 那年华娱.txt data/raw/
 ```
 
-### 3. 一键数据管线
+### 运行数据管线
 
 ```bash
 # 清洗
@@ -88,7 +88,7 @@ python -c "from src.data_pipeline.llm_annotator import annotate_all_books; annot
 python -c "from src.data_pipeline.sft_data_builder import build_sft_dataset; build_sft_dataset('data/clean')"
 ```
 
-### 4. 租显卡开训 🎮
+### 云端训练
 
 > AutoDL → RTX 6000D 80GB (¥5.18/h) → ~3h → ¥16
 
@@ -104,7 +104,7 @@ python src/training/grpo_train.py \
   --group_size 4 --output_dir output/grpo --resume
 ```
 
-### 5. 生成小说 ✍️
+### 生成小说
 
 ```python
 from src.constraints.chapter_generator import NovelGenerator
@@ -120,9 +120,9 @@ python scripts/generate_novel.py --chapters 10 --model models/novel-merged
 
 ---
 
-## 📊 效果
+## 实验结果
 
-### 微调前后对比
+### 文本统计
 
 | 指标 | 基座模型 | SFT 微调 | 变化 |
 |------|:---:|:---:|------|
@@ -149,9 +149,9 @@ python scripts/generate_novel.py --chapters 10 --model models/novel-merged
 
 ---
 
-## 🧠 核心技术
+## 技术要点
 
-| 技术 | 干啥的 | 亮点 |
+| 技术 | 用途 | 说明 |
 |------|--------|------|
 | **LoRA** | 参数高效微调 | rank=64, 只训 26M/30B 参数 |
 | **LLM 标注** | DeepSeek API 自动标注 | $1.50 搞定 2,104 章 |
@@ -162,7 +162,7 @@ python scripts/generate_novel.py --chapters 10 --model models/novel-merged
 
 ---
 
-## 💸 全流程成本
+## 成本估算
 
 | 阶段 | 耗时 | 费用 |
 |------|------|------|
@@ -175,7 +175,7 @@ python scripts/generate_novel.py --chapters 10 --model models/novel-merged
 
 ---
 
-## 🙋 面试可能被问到的
+## FAQ
 
 **Q: 为什么用 GRPO 不用 PPO？**
 A: GRPO 不需要 Value Network，80GB 单卡就能跑。组内相对比较比绝对打分稳定，DeepSeek-R1 验证过。
